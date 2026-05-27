@@ -93,5 +93,43 @@
 
 - **Salary:** 1,100 - 1,500 USD
 
-- **AI impact analysis:** This job directly demands proficiency in AI-assisted testing tools like Copilot and Cursor, proving that AI literacy is now a core requirement in 2026 rather than just an optional skill. AI changes this role by automating code snippets for test scripts, yet the demand for strong architectural knowledge in cloud testing (AWS, VMware) ensures humans remain key decision-makers. câu này
+- **AI impact analysis:** This job directly demands proficiency in AI-assisted testing tools like Copilot and Cursor, proving that AI literacy is now a core requirement in 2026 rather than just an optional skill. AI changes this role by automating code snippets for test scripts, yet the demand for strong architectural knowledge in cloud testing (AWS, VMware) ensures humans remain key decision-makers.
 
+### Job 3: QC Engineer (Tester/QA QC) for Web - Up to 1500$
+
+- **Link:** [QC Engineer (Tester/QA QC) for Web - Up to 1500$](https://itviec.com/it-jobs/qa-qc?job_selected=qc-engineer-tester-qa-qc-for-web-up-to-1500-evolus-planv-5225)
+
+- **Screenshot:** 
+
+![Job3ScreenShot1](refs/job3-1.png)
+![Job3ScreenShot2](refs/job3-2.png)
+
+- **Job description:**
+
+    Participate in the development of exciting new server and client applications for sports team management that already have millions of users in the USA, UK and the EC. Work closely with top athletes and coaches from NBC Sports to create the next generation of applications to make sports teams perform far better. While NBC will help you better understand the details of competitive sports, our highly experienced engineering team will help you significantly improve your ability to develop world class enterprise applications. Your job will be to "own" a piece of the application, the size will depend on your experience. You will work closely with our USA based customer, our UI design, our senior technical team, QA, and the deployment team to do your job. We work at "Start-up Company" speed and you will learn and grow your skills very quickly.
+
+- **Required skill:**
+
+    - Technical requirements:
+        - Firm knowledge in writing and executing test cases and test scripts
+        - Minimum 2 years of experience in manual testing for enterprise web-based system
+        - Good knowledge in Software Testing process, testing activities, testing types.
+        - Experience in analyzing requirements, developing and executing test cases.
+        - Strong problem-solving and analytical skills, with the ability to identify defects
+        - Working with Issue Tracking Systems, such as JIRA is required
+        - Strong English reading and writing skills
+        - Cross-browser, cross-platform and responsive web testing experience is a plus
+        - Performance or security testing is a plus
+        - Having experience working with e-commerce systems is an advantage.
+    - Behavioral requirements:
+        - Carefulness and logic thinking
+        - Able to work under pressure, hardworking, proactive, and responsible
+        - Good communication and teamwork skills
+        - Enjoy working in a fast paced team environment
+        - Enjoy learning new technological approaches, and quickly applying these to your work
+        - Love to exceed customer expectations
+        - Self-motivated and self directed.
+
+- **Salary:** Up to 1500%
+
+- **AI impact analysis:** AI-powered testing tools (like self-healing test scripts and automated defect detection) are automating repetitive manual test cases, shrinking the core of this role. However, QAs who can leverage AI to design smarter test strategies, interpret results, and validate AI-generated features will remain essential — shifting the skill bar rather than eliminating the position.
