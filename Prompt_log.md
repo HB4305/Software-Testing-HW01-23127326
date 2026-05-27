@@ -66,3 +66,46 @@ Working days
 Vietnam
 Monday - Friday
 Hãy viết 1 - 2 câu ngắn bằng tiếng Anh phân tích tác động của AI vào cái job trên"
+
+### Prompt 2
+
+* **Timestamp:** May 27, 2026 09:33PM
+* **AI Tool:** Claude Sonet 4.6
+* **Prompt:** "Job description Kiểm soát chất lượng truyền thống và AI:
+    * Phân tích và review các đặc tả yêu cầu chức năng
+    * Lập kế hoạch kiểm thử cho các sản phẩm truyền thống và AI
+    * Thực hiện kiểm thử chức năng, UI/UX và hành vi của AI
+    * Kiểm tra các tình huống edge case, misuse và rủi ro nghiệp vụ
+    * Kiểm tra độ chính xác, độ tin cậy và tính công bằng của kết quả AI
+    * Theo dõi và báo cáo các lỗi một cách có hệ thống
+    * Tham gia các buổi demo và review luồng nghiệp vụ Kiểm thử tự động và công cụ AI:
+    * Phát triển các kịch bản kiểm thử tự động
+    * Áp dụng các công cụ kiểm thử AI (LLM evaluation, synthetic data)
+    * Thiết lập và duy trì hệ thống CI/CD cho kiểm thử
+    * Sử dụng công cụ giả lập người dùng để kiểm thử tự động
+    * Phát triển các công cụ nội bộ hỗ trợ kiểm thử AI Đảm bảo chất lượng dữ liệu cho AI:
+    * Kiểm tra tính đầy đủ và chính xác của dữ liệu huấn luyện AI
+    * Đánh giá tính đa dạng và cân bằng của dữ liệu
+    * Kiểm tra việc xử lý dữ liệu cá nhân và tuân thủ bảo mật
+    * Theo dõi hiệu suất mô hình AI theo thời gian Học hỏi và phát triển:
+    * Nghiên cứu các xu hướng, công cụ và phương pháp kiểm thử AI mới
+    * Chủ động nâng cao tư duy kiểm thử manual + automation, tư duy phân tích rủi ro và tư duy end user
+    * Tham gia các khóa học và hoạt động nâng cao kỹ năng
+    * Chia sẻ kiến thức với đồng nghiệp Your skills and experience Bằng cấp: Cử Nhân trở lên các chuyên ngành CNTT & Phần mềm Chuyên ngành: Khoa Học Máy Tính, Công Nghệ Thông Tin, hoặc các ngành có liên quan Must-have:
+    * Tối thiểu 04 năm kinh nghiệm trong lĩnh vực Software Testing Automation ứng dụng AI trong testing
+    * Chủ động, năng động, trách nhiệm cao, kiên định bám mục tiêu
+    * Có khả năng xử lý nhiều dự án song song, biết sắp xếp ưu tiên theo tiến độ công việc
+    * Có tư duy end-user, cẩn thận trong công việc
+    * Giao tiếp tốt, phối hợp hiệu quả với các team liên quan.
+    * Có khả năng phân tích các rủi ro hệ thống Should-have:
+    * Có chứng chỉ ISTQB, Agile hoặc các chứng chỉ tương đương là điểm cộng. Why you'll love working here Quyền Lợi:
+    * Chế độ đãi ngộ cạnh tranh. Lương tương xứng năng lực.
+    * Thưởng hấp dẫn , bao gồm : Tháng 13, Tháng 14, Tháng 15. Thưởng vào các dịp lễ tết, Thưởng đột xuất cho cá nhân có thành tích xuất sắc, Thưởng theo kết quả kinh doanh công ty ….
+    * Các khoản đóng bảo hiểm được thực hiện tốt hơn Luật quy định.
+    * Bảo hiểm tai nạn, sức khỏe, kiểm tra sức khỏe định kì cho tòan bộ nhân viên.
+    * Chế độ đào tạo: Chương trình định hướng nghề nghiệp rõ ràng cho nhân viên. Được tham gia các khóa đào tạo trong và ngoài nước.
+    * Các họat động tập thể: Team Building, Ngày hội gia đình, Văn nghệ, CLB thể dục thể thao, nghỉ mát… Môi trường làm việc:
+    * Thời gian làm việc: 40 tiếng/ 1tuần.
+    * Môi trường làm việc chuyên nghiệp, thân thiện và năng động.
+    * Cơ hội thăng tiến, phát triển nghề nghiệp không giới hạn.
+    Hãy viết 1 - 2 câu ngắn bằng tiếng Anh phân tích tác động của AI vào cái job trên"

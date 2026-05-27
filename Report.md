@@ -133,3 +133,58 @@
 - **Salary:** Up to 1500%
 
 - **AI impact analysis:** AI-powered testing tools (like self-healing test scripts and automated defect detection) are automating repetitive manual test cases, shrinking the core of this role. However, QAs who can leverage AI to design smarter test strategies, interpret results, and validate AI-generated features will remain essential — shifting the skill bar rather than eliminating the position.
+
+### Job 4: Senior QC (Automation Tester, QA QC)
+
+- **Link:** [Senior QC (Automation Tester, QA QC)](https://itviec.com/it-jobs/qa?job_selected=senior-qc-automation-tester-qa-qc-pnj-5542)
+
+- **Screenshot:**
+
+![Job4ScreenShot1](refs/job4-1.png)
+![Job4ScreenShot2](refs/job4-2.png)
+
+
+- **Job description:**
+
+    - Kiểm soát chất lượng truyền thống và AI:
+        - Phân tích và review các đặc tả yêu cầu chức năng
+        - Lập kế hoạch kiểm thử cho các sản phẩm truyền thống và AI
+        - Thực hiện kiểm thử chức năng, UI/UX và hành vi của AI
+        - Kiểm tra các tình huống edge case, misuse và rủi ro nghiệp vụ
+        - Kiểm tra độ chính xác, độ tin cậy và tính công bằng của kết quả AI
+        - Theo dõi và báo cáo các lỗi một cách có hệ thống
+        - Tham gia các buổi demo và review luồng nghiệp vụ
+    - Kiểm thử tự động và công cụ AI:
+        - Phát triển các kịch bản kiểm thử tự động
+        - Áp dụng các công cụ kiểm thử AI (LLM evaluation, synthetic data)
+        - Thiết lập và duy trì hệ thống CI/CD cho kiểm thử
+        - Sử dụng công cụ giả lập người dùng để kiểm thử tự động
+        - Phát triển các công cụ nội bộ hỗ trợ kiểm thử AI 
+    - Đảm bảo chất lượng dữ liệu cho AI:
+        - Kiểm tra tính đầy đủ và chính xác của dữ liệu huấn luyện AI
+        - Đánh giá tính đa dạng và cân bằng của dữ liệu
+        - Kiểm tra việc xử lý dữ liệu cá nhân và tuân thủ bảo mật
+        - Theo dõi hiệu suất mô hình AI theo thời gian
+    - Học hỏi và phát triển:
+        - Nghiên cứu các xu hướng, công cụ và phương pháp kiểm thử AI mới
+        - Chủ động nâng cao tư duy kiểm thử manual + automation, tư duy phân tích rủi ro và tư duy end user
+        - Tham gia các khóa học và hoạt động nâng cao kỹ năng
+        - Chia sẻ kiến thức với đồng nghiệp
+
+- **Required skill:**
+
+    - Bằng cấp: Cử Nhân trở lên các chuyên ngành CNTT & Phần mềm
+    - Chuyên ngành: Khoa Học Máy Tính, Công Nghệ Thông Tin, hoặc các ngành có liên quan
+    - Must-have: 
+        - Tối thiểu 04 năm kinh nghiệm trong lĩnh vực Software Testing Automation ứng dụng AI trong testing
+        - Chủ động, năng động, trách nhiệm cao, kiên định bám mục tiêu
+        - Có khả năng xử lý nhiều dự án song song, biết sắp xếp ưu tiên theo tiến độ công việc
+        - Có tư duy end-user, cẩn thận trong công việc
+        - Giao tiếp tốt, phối hợp hiệu quả với các team liên quan.
+        - Có khả năng phân tích các rủi ro hệ thống
+    - Should-have: 
+        - Có chứng chỉ ISTQB, Agile hoặc các chứng chỉ tương đương là điểm cộng.
+
+- **Salary:** 1,000 - 1,500 USD
+
+- **AI impact analysis:** The job description reflects AI's dual role: AI is simultaneously the product being tested (LLM evaluation, model behavior, fairness, training data quality) and the tool accelerating the work (automated testing, synthetic data generation, CI/CD pipelines). This means the QA engineer must evolve from a traditional tester into an AI-literate quality analyst who understands both how to test AI systems and how to leverage AI to test faster and smarter.
