@@ -16,7 +16,7 @@
 
 ### Job 1: Manual/Automation Tester (QA QC)
 
-- **Link:** [Manual & Automation Tester (QA/QC)](https://itviec.com/it-jobs/manual-automation-tester-qa-qc-grapecity-2052?lab_feature=preview_jd_page)
+- **Link:** [Manual/Automation Tester (QA/QC)](https://itviec.com/it-jobs/manual-automation-tester-qa-qc-grapecity-2052?lab_feature=preview_jd_page)
 
 - **Screenshot:**
 
