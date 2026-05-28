@@ -339,3 +339,67 @@
 - **Salary:** 1,200 - 2,000 USD
 
 - **AI impact analysis**: The inclusion of AI tool proficiency (ChatGPT, GitHub Copilot) under the 'Required Experience and Skills' section signifies a critical shift. AI expertise is transitioning from a 'nice-to-have' competitive advantage into a core mandatory competency for Senior QA roles, driven by the need for hyper-productivity in modern software development life cycle.
+
+### Job 8: QA Team Lead
+
+- **Link:** [QA Team Lead](https://itviec.com/it-jobs/qa-team-lead-nakivo-3715?lab_feature=preview_jd_page)
+
+- **Screenshot:**
+
+![Job8ScreenShot1](refs/job8-1.png)
+![Job8ScreenShot2](refs/job8-2.png)
+
+- **Job description:** 
+
+    1. Quality Ownership
+        - Own release quality for your product/team
+        - Define testing scope based on risk, timelines, and business priorities
+        - Ensure only production-ready features are released
+        - Participate actively in planning, requirement reviews, and release discussions
+        - Identify quality risks early and drive mitigation plans
+    2. Team Leadership
+        - Lead and mentor QA engineers across manual and automation testing
+        - Create a strong culture of accountability, ownership, and continuous improvement
+        - Improve team efficiency and execution quality
+    3. Testing & Automation
+        - Define and improve regression strategies
+        - Drive automation for UI, API, and integration testing
+        - Improve CI/CD quality workflows and release confidence
+        - Optimize test execution time while maintaining meaningful coverage
+        - Support exploratory, risk-based, and customer-focused testing approaches
+    4. Customer & Product Focus
+        - Work closely with Product, DEV, and Support teams
+        - Analyze production defects and customer feedback to improve test coverage
+        - Drive root-cause analysis and defect prevention practices
+        - Focus on customer-perceived quality, not only internal QA metrics
+    5. Process & Continuous Improvement
+        - Help establish practical QA processes that teams actually follow
+        - Track quality KPIs and testing effectiveness
+        - Improve release readiness, test planning, and defect management
+        - Introduce AI-assisted QA workflows where they provide real value
+
+- **Required skill:** 
+
+    - Required Qualifications:
+        - 6+ years of experience in software testing / quality engineering
+        - 3+ years leading QA teams or acting as QA Lead
+        - Strong hands-on experience with:
+            - Test automation
+            - Designing test matrices across multiple OS versions, hardware configurations, and storage targets
+            - Regression strategy
+        - Experience reviewing requirements and identifying testing risks early
+        - Strong troubleshooting and analytical skills
+        - Experience mentoring junior and mid-level QA engineers
+        - Comfortable working in fast-moving environments with evolving priorities
+        - Good communication skills in English
+
+    - Desired Qualifications:
+        - Hands-on testing experience with backup/recovery products
+        - Experience with cloud platforms, backup/storage products, virtualization, or infrastructure-related software
+        - Experience improving release quality and reducing defect leakage
+        - Experience using AI tools (ChatGPT, Copilot, Cursor, Claude, etc.) to improve QA workflows
+        - Experience building automation frameworks or improving testing architecture
+
+- **Salary:** 2,500 - 3,000 USD
+
+- **AI impact analysis:** Through this job description, we can see that AI is helping QA professionals work faster and more efficiently. Knowing how to use tools like ChatGPT or Claude is now a big plus that employers are actively looking for. However, for leadership positions that require team management and problem-solving experience, AI cannot yet replace a skilled human.
