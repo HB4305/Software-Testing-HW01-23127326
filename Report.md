@@ -456,3 +456,51 @@
 - **Salary**: 7,000 - 9,999 USD
 
 - **AI impact analysis:** While the job description lacks direct references to AI, the fact that core tools like Playwright and Cucumber are integrating AI to enhance efficiency proves that AI is becoming an essential, almost indispensable, asset in modern QA workflows.
+
+### Job 10: Automation Tester (QA Engineer)
+
+- **Link:** [Automation Tester (QA Engineer)](https://itviec.com/it-jobs/automation-tester-qa-engineer-gemcommerce-3716?lab_feature=preview_jd_page)
+
+- **Screenshot:**
+
+![Job9ScreenShot1](refs/job10-1.png)
+![Job9ScreenShot2](refs/job10-2.png)
+
+- **Job description:**
+
+    We are looking for an Automation Tester to ensure software quality for our Ecommerce products through both manual and automation testing activities. You will be responsible for ensuring that our products, applications, and systems work smoothly while continuously improving testing efficiency and product quality.
+
+    This role is suitable for strong Manual Testers who already have hands-on experience Automation Testing and would like to further develop automation skills in a product environment.
+
+    This is a high-visibility team where your work will directly impact customer experience and business growth. If you enjoy broadening your technical skills, building high-quality products, and working in an environment that values creativity, experimentation, and innovation, you’ll fit right into our collaborative Scrum team.
+
+    You’ll do:
+
+    - Study and analyze requirements, system specifications, and technical design documents to provide timely and meaningful feedback
+    - Collaborate with developers and team leaders to clarify requirements and identify test scenarios
+    - Design test cases for automation testing 
+    - Perform manual testing for Web, API, and Mobile applications when needed 
+    - Develop and maintain automated test scripts for suitable testing scenarios
+    - Execute regression testing primarily using automation 
+    - Troubleshoot issues, analyze test results, and report bugs to development teams
+    - Estimate, prioritize, and manage testing activities effectively
+    - Work closely with developers to ensure product quality before release 
+    - Propose improvements for automation frameworks, testing processes, and overall test efficiency 
+
+- **Required skill:** 
+
+    - At least 3 years of experience in Software Testing (Web, API, Mobile Testing, etc.).
+    - Hands-on experience or exposure to Automation Testing tools/frameworks such as Selenium, Playwright, Cypress, Appium, or similar.
+    - Able to create and maintain basic automated test scripts.
+    - Experience in Ecommerce domain is highly preferred.
+    - Basic understanding of programming/scripting languages.
+    - Familiarity with Agile/Scrum methodologies.
+    - Cross-browser, cross-platform, and responsive testing experience.
+    - Strong analytical and problem-solving skills.
+    - Proactive, detail-oriented, organized, and able to work independently.
+    - Intermediate English reading/writing skills (equivalent to TOEIC 500+).
+    - ISTQB certification is a plus.
+
+- **Salary:** 1,000 - 1,800 USD
+
+- **AI impact analysis:** With tools like Playwright increasingly embedding AI to boost efficiency, using AI in testing is now almost a given. The QA team's role is evolving to validate these automated outputs and ensure high-level system reliability.
