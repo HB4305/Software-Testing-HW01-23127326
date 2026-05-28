@@ -403,3 +403,56 @@
 - **Salary:** 2,500 - 3,000 USD
 
 - **AI impact analysis:** Through this job description, we can see that AI is helping QA professionals work faster and more efficiently. Knowing how to use tools like ChatGPT or Claude is now a big plus that employers are actively looking for. However, for leadership positions that require team management and problem-solving experience, AI cannot yet replace a skilled human.
+
+### Job 9: Expert QA Engineer (Playwright) (Relocate to Singapore)
+
+- **Link:** [Expert QA Engineer (Playwright) (Relocate to Singapore)](https://itviec.com/it-jobs/expert-qa-engineer-playwright-relocate-to-singapore-zuhlke-engineering-vietnam-5002?lab_feature=preview_jd_page)
+
+- **Screenshot**:
+
+![Job9ScreenShot1](refs/job9-1.png)
+![Job9ScreenShot2](refs/job9-2.png)
+![Job9ScreenShot3](refs/job9-3.png)
+
+- **Job description:** 
+
+    Founded in Switzerland in 1968, Zühlke is owned by its partners and located across Europe and Asia. We are a global transformation partner, with engineering and innovation in our DNA. We're trusted to help clients envision and build their businesses for the future – to run smarter today while adapting for tomorrow’s markets, customers, and communities. Our multidisciplinary teams specialise in tech strategy and business innovation, digital solutions and applications, and device and systems engineering. We excel in complex, regulated spaces including health and finance, connecting strategy, tech implementation, and operational services to help clients become more effective, resilient businesses.
+
+    If you share our values and want to do the best work, for the right reasons, we can offer you the chance to do it on a global scale and play a real role in shaping our exciting journey.
+
+    The role.
+
+    As a Quality Assurance Engineer, you will be a key member of our team, focused on creating next-generation solutions for our client’s colleagues and customers. Quality is a shared responsibility integrated from the start of the project, and you will be essential in providing timely feedback on the quality and viability of the services delivered. You will get support/training in the team to ensure you have all the tools and knowledge needed to excel in your role.
+
+    You will work closely with a product development team, offering guidance and feedback to ensure high-quality service delivery from the beginning. As a reflective partner, you will provide critical insights into the quality of their work at pivotal stages. While a deep understanding of testing techniques is important, this role is not about traditional testing. Instead, it centers on empowering others to incorporate quality into their processes before any code is written. 
+
+    If you are passionate about meeting user needs and thrive in a collaborative environment, this role presents opportunities for career growth and learning from industry experts. Join a forward-thinking company that uses digital solutions to make a significant impact. This position is perfect for someone eager to contribute to building quality services and enhancing user experiences while advancing their career in a supportive, innovative environment.
+
+    How you'll make impact
+
+        - Create and maintain automated test cases, test plans and test framework ensuring that they are up to date with requirements and policy changes
+        - Create, maintain and improve the automated test framework and test environments
+        - Conduct testing on new features and file defects
+        - Perform various tests such as manual/functional/performance/exploratory tests and support UATs
+        - Assist in resolving production cases
+
+    If you feel you don't meet all the requirements, we are still happy to get to know you, learn more about your ambitions and ideas and look forward to receiving your application!  
+
+    We welcome people from all backgrounds, regardless of their gender, personality, national origin, race, religion, colour, sexual orientation, gender identity, age, marital status, disability or veteran status.
+
+- **Required skill:**
+
+    - At least 6 years of professional software quality testing experience with hands-on automation
+    - Strong understanding of testing techniques, risk analysis
+    - Strong understanding of test-driven development, continuous integration and continuous delivery
+    - Proficiency in programming languages such as Java or Kotlin. Knowledge of Spring Boot will be an advantage
+    - Experience with open-source automated testing frameworks such as Cucumber, TestNg and Playwright
+    - Experience with open-source performance testing tools such as JMeter, Gatling, Locust or enterprise level tools such as HP LoadRunner
+    - Experience with open-source penetration testing tools such as ZAP , Burp Suite, SQL Map or enterprise level tools such as HP WebInspect, Nessus, CheckMarx
+    - Experience working in SCRUM teams
+    - Excellent communication and collaboration abilities
+    - Proactive, self-driven and motivated
+
+- **Salary**: 7,000 - 9,999 USD
+
+- **AI impact analysis:** While the job description lacks direct references to AI, the fact that core tools like Playwright and Cucumber are integrating AI to enhance efficiency proves that AI is becoming an essential, almost indispensable, asset in modern QA workflows.
