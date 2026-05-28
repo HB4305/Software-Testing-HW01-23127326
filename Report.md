@@ -292,4 +292,50 @@
 
 ### Job 7: Senior QC Engineer
 
-- **Link:** [Senior QC Engineer]()
+- **Link:** [Senior QC Engineer](https://itviec.com/it-jobs/senior-qc-engineer-one-mount-group-0556?lab_feature=preview_jd_page)
+
+- **Screenshot:** 
+
+![Job7ScreenShot1](refs/job7-1.png)
+![Job7ScreenShot2](refs/job7-2.png)
+
+- **Job description:**
+
+    - Analyze business and system requirements to define appropriate test strategies and plans.
+    - Design and execute test cases for web, mobile, UI, API, and performance testing.
+    - Develop, maintain, and enhance automation test scripts and frameworks.
+    - Validate system quality, integrated features, and data accuracy.
+    - Log, track, and manage defects using JIRA or equivalent tools.
+    - Collaborate with Developers, Product Owners, Business Analysts, and DevOps to ensure product quality throughout the SDLC.
+    - Integrate automated testing into CI/CD pipelines and support continuous testing practices.
+    - Use AI tools to improve testing productivity, including generating test ideas, test cases, scripts, and test data.
+    - Report progress, risks, and blockers proactively, and support junior team members when needed.
+
+- **Required skill:**
+
+    - Required Experience and Skills
+
+        - 4+ years of experience in software testing and quality assurance.
+        - Strong experience in test planning, test case design, execution, and reporting.
+        - Hands-on experience in automation testing with frameworks such as Robot Framework, Selenium, Playwright, Cypress, or Appium.
+        - Proficient in at least one programming/scripting language such as Python, Java, JavaScript, or C#.
+        - Experience in API testing using Postman, SoapUI, Swagger, or similar tools.
+        - Good SQL skills for data validation and backend testing.
+        - Familiarity with Git and collaborative development workflows.
+        - Practical experience with CI/CD tools such as Jenkins, GitLab CI/CD, GitHub Actions, or Azure DevOps.
+        - Experience using AI tools such as ChatGPT, GitHub Copilot, or similar tools to support testing activities.
+        - Solid understanding of functional, regression, integration, system, UAT, performance, and automation testing.
+        - Strong problem-solving, communication, and teamwork skills.
+        - Ability to work independently and manage multiple tasks in a fast-paced environment.
+
+    - Preferred Qualifications
+
+        - Bachelor’s degree in IT, Computer Science, Software Engineering, or a related field.
+        - Experience working in an Agile/Scrum environment.
+        - Experience in Banking, Finance, or Fintech projects is a plus.
+        - Familiarity with performance testing tools such as JMeter or K6 is an advantage.
+        - Knowledge of security testing, test data management, and risk-based testing is a plus.
+
+- **Salary:** 1,200 - 2,000 USD
+
+- **AI impact analysis**: The inclusion of AI tool proficiency (ChatGPT, GitHub Copilot) under the 'Required Experience and Skills' section signifies a critical shift. AI expertise is transitioning from a 'nice-to-have' competitive advantage into a core mandatory competency for Senior QA roles, driven by the need for hyper-productivity in modern software development life cycle.
