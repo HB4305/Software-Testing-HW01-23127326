@@ -16,7 +16,7 @@
 
 ### Job 1: Manual/Automation Tester (QA QC)
 
-- **Link:** [Manual & Automation Tester (QA/QC)](https://itviec.com/it-jobs/qa-qc?job_selected=manual-automation-tester-qa-qc-grapecity-2052)
+- **Link:** [Manual & Automation Tester (QA/QC)](https://itviec.com/it-jobs/manual-automation-tester-qa-qc-grapecity-2052?lab_feature=preview_jd_page)
 
 - **Screenshot:**
 
@@ -55,7 +55,7 @@
 
 ### Job 2: Automation QA Engineer (QA QC/Tester/Automation Test)
 
-- **Link:** [Automation QA Engineer (QA QC/Tester/Automation Test)](https://itviec.com/it-jobs/qa-qc?job_selected=automation-qa-engineer-qa-qc-tester-automation-test-nakivo-0115)
+- **Link:** [Automation QA Engineer (QA QC/Tester/Automation Test)](https://itviec.com/it-jobs/automation-qa-engineer-qa-qc-tester-automation-test-nakivo-0115?lab_feature=preview_jd_page)
 
 - **Screenshot:**
 
@@ -97,7 +97,7 @@
 
 ### Job 3: QC Engineer (Tester/QA QC) for Web - Up to 1500$
 
-- **Link:** [QC Engineer (Tester/QA QC) for Web - Up to 1500$](https://itviec.com/it-jobs/qa-qc?job_selected=qc-engineer-tester-qa-qc-for-web-up-to-1500-evolus-planv-5225)
+- **Link:** [QC Engineer (Tester/QA QC) for Web - Up to 1500$](https://itviec.com/it-jobs/qc-engineer-tester-qa-qc-for-web-up-to-1500-evolus-planv-5225?lab_feature=preview_jd_page)
 
 - **Screenshot:** 
 
@@ -136,7 +136,7 @@
 
 ### Job 4: Senior QC (Automation Tester, QA QC)
 
-- **Link:** [Senior QC (Automation Tester, QA QC)](https://itviec.com/it-jobs/qa?job_selected=senior-qc-automation-tester-qa-qc-pnj-5542)
+- **Link:** [Senior QC (Automation Tester, QA QC)](https://itviec.com/it-jobs/senior-qc-automation-tester-qa-qc-pnj-5542?lab_feature=preview_jd_page)
 
 - **Screenshot:**
 
@@ -191,7 +191,7 @@
 
 ### Job 5: Automation Tester (QA QC)
 
-- **Link:** [Automation Tester (QA QC)](https://itviec.com/it-jobs/qa-qc?job_selected=automation-tester-qa-qc-abbank-0039)
+- **Link:** [Automation Tester (QA QC)](https://itviec.com/it-jobs/automation-tester-qa-qc-abbank-0039?lab_feature=preview_jd_page)
 
 - **Screenshot:**
 
@@ -230,7 +230,7 @@
 
 ### Job 6: Senior QA Engineer (Tester/Business Analyst)
 
-- **Link:** [Senior QA Engineer (Tester/Business Analyst)](https://itviec.com/it-jobs/qa-qc?job_selected=senior-qa-engineer-tester-business-analyst-soxes-ag-3239&page=2)
+- **Link:** [Senior QA Engineer (Tester/Business Analyst)](https://itviec.com/it-jobs/senior-qa-engineer-tester-business-analyst-soxes-ag-3239?lab_feature=preview_jd_page)
 
 - **Screenshot:** 
 
@@ -289,3 +289,7 @@
 - **Salary:** 1,800 - 2,200 USD
 
 - **AI impact analysis:** This job's focus on AI tools demonstrates that AI is evolving to handle routine testing, allowing QA engineers to shift their focus toward more critical and complex quality standards.
+
+### Job 7: Senior QC Engineer
+
+- **Link:** [Senior QC Engineer]()
