@@ -227,3 +227,65 @@
 - **Salary:** 1,000 - 2,000 USD
 
 - **AI impact analysis:** While AI dramatically accelerates script generation, API test authoring, and CI/CD maintenance within this role, it cannot replace the essential human expertise required for strategic test planning, cross-functional Agile collaboration, and mentoring team members. Consequently, the ideal candidate must shift their focus from routine coding to designing AI-driven testing frameworks and leading quality assurance governance.
+
+### Job 6: Senior QA Engineer (Tester/Business Analyst)
+
+- **Link:** [Senior QA Engineer (Tester/Business Analyst)](https://itviec.com/it-jobs/qa-qc?job_selected=senior-qa-engineer-tester-business-analyst-soxes-ag-3239&page=2)
+
+- **Screenshot:** 
+
+![Job6ScreenShot1](refs/job6-1.png)
+![Job6ScreenShot2](refs/job6-2.png)
+
+- **Job description:**
+
+    - Job Overview
+
+        - We are seeking an experienced and detail-oriented Senior Testing Engineer to ensure the quality, stability, and performance of our software products.
+        - The ideal candidate should have strong expertise in manual testing and requirement analysis, along with basic hands-on experience using AI-assisted tools to improve testing efficiency and software quality processes.
+
+    - Key Responsibilities
+
+        - Technical Responsibilities
+
+            - Analyze business and system requirements to ensure completeness and testability.
+            - Collaborate with Product Owners, Business Analysts, and Developers to clarify requirements and expected behaviors.
+            - Design, develop, execute, and maintain test plans, test cases, and testing documentation.
+            - Perform functional, regression, integration, system, API, and performance testing.
+            - Identify, document, track, and verify software defects.
+            - Ensure software quality, reliability, scalability, and security standards are met.
+            - Participate in release validation and production verification activities.
+            - Utilize AI-assisted tools to improve QA productivity and testing efficiency.
+            - Apply AI tools for:
+                - Test case generation
+                - Defect analysis
+                - Test data preparation
+                - Documentation support
+            - Work with AI-assisted tools such as:
+                - ChatGPT
+                - GitHub Copilot
+                - AI-based testing support tools
+            - Provide recommendations for continuous improvement in QA processes and product quality.
+
+- **Required skill:**
+
+    - Experience & Skills
+
+        - Minimum 5+ years of experience in software testing and quality assurance.
+        - Strong experience in manual testing and requirement analysis.
+        - Basic knowledge or experience with automation testing is a plus.
+        - Experience using AI-assisted tools in software testing or daily work activities is preferred.
+        - Familiarity with:
+
+            - RESTful APIs
+            - CI/CD pipelines
+            - Git version control
+            - Cloud platforms
+    
+    - Education: Bachelor’s degree in Computer Science, Information Technology, or a related technical field.
+
+    - Language Skills: Strong English communication skills, with the ability to work effectively in an international environment and collaborate directly with overseas partners.
+
+- **Salary:** 1,800 - 2,200 USD
+
+- **AI impact analysis:** This job's focus on AI tools demonstrates that AI is evolving to handle routine testing, allowing QA engineers to shift their focus toward more critical and complex quality standards.

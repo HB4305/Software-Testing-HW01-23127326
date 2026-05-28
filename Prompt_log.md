@@ -147,3 +147,4 @@ Hãy viết 1 - 2 câu ngắn bằng tiếng Anh phân tích tác động của 
     Tham gia các hoạt động văn hóa ngoại khóa (Team building, hội thao, văn nghệ...).
     Được vay ưu đãi (lãi suất hấp dẫn) dành cho cán bộ nhân viên ABBANK.
     Hãy viết 1 - 2 câu ngắn bằng tiếng Anh phân tích tác động của AI vào cái job trên"
+
