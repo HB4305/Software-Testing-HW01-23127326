@@ -109,3 +109,41 @@ Hãy viết 1 - 2 câu ngắn bằng tiếng Anh phân tích tác động của 
     * Môi trường làm việc chuyên nghiệp, thân thiện và năng động.
     * Cơ hội thăng tiến, phát triển nghề nghiệp không giới hạn.
     Hãy viết 1 - 2 câu ngắn bằng tiếng Anh phân tích tác động của AI vào cái job trên"
+
+### Prompt 3
+
+* **Timestamp:** May 28, 2026 10:52AM
+* **AI Tool:** Gemini 3.5 Flash
+* **Prompt:** "Job description
+    Xây dựng dụng cụ cho automation test và viết script cho các api/rest và application test.
+    Định nghĩa, phát triển, triển khai và duy trì script cho automation test
+    Quản lý phiên bản (source control) cho automation test script
+    Tham gia các cuộc họp về yêu cầu dự án để hiểu mục đích của dự án. Đóng góp thông tin về tính khả thi của dự án trên phương diện testing. Ước lượng thời gian testing cho dự án
+    Đưa ra phương án testing, phát triển các chiến lược automation test và các framework cho automation test…
+    Thiết kế test case và viết automation scripts.
+    Phối hợp với các thành viên khác trong nhóm để hiểu về mục tiêu của dự án, thu thập các yêu cầu liên quan đến automation, thiết kế automated test và giải quyết các vấn đề liên quan đến testing.
+    Phối hợp với nhóm Manual testing để đảm bảo phạm vi kiểm tra toàn diện.
+    Tham gia thực hiện Manual test khi cần thiết.
+    Luôn cập nhật các xu hướng và tiến bộ của ngành về các công cụ và kỹ thuật về automation testing.
+    Your skills and experience
+    Trình độ Cử nhân trở lên chuyên ngành về Công nghệ thông tin, Khoa học máy tính hoặc các chuyên ngành liên quan.
+    Có trên 02 năm kinh nghiệm trong automation testing cho api/rest hoặc mobile hoặc web
+    Ưu tiên ứng viên có kinh nghiệm làm việc với Agile/Scrum
+    Thông thạo trong việc viết automation test script với các ngôn ngữ như Java, C#.net, Python, Javascript, etc..
+    Am hiểu về các giai đoạn trong việc kiểm thử phần mềm như: kiểm thử tính năng, kiểm thử tích hợp, kiểm thử tự động, kiểm thử white-box/black box, và kiểm thử load/performance;
+    Kinh nghiệm sử dụng các bộ công cụ, framework như Katalon, Postman, Rest Assured, SoapUI, Selenium Webdriver, Mobile automation test, Jmeter, Jenkins, etc là một lợi thế;
+    Kinh nghiệm quản lý phiên bản (version control) (như Git) và CI/CD
+    Đào tạo, mentoring/ coaching các nhân viên trong team và dự án về các quy trình test driven development, automation testing liên quan đến SIT, UAT, Compliance Test, Performance test etc.
+    Cẩn thận, tỉ mỉ, cần cù, nhanh nhẹn, có khả năng làm việc độc lập hoặc nhóm với cường độ cao.
+    Tinh thần không ngại thay đổi tool/ framework/ ngôn ngữ
+    Why you'll love working here
+    Phúc lợi:
+    Mức lương cạnh tranh dựa trên Kiến thức, kinh nghiệm của mỗi cá nhân (Trao đổi khi trúng tuyển).
+    Được hưởng chế độ Bảo hiểm theo luật lao động và chương trình ABBANK CARE (chế độ đãi ngộ, phúc lợi bổ sung dành cho toàn thể cán bộ nhân viên ABBANK).
+    Chế độ nghỉ phép 13 ngày/năm (bao gồm 01 ngày nghỉ sinh nhật).
+    Nơi làm việc tốt nhất Châu Á 2
+    Top 100 nhà tuyển dụng được yêu thích nhất năm 2theo khảo sát từ website tuyển dụng CareerBuilder.
+    Môi trường năng động và sáng tạo, phát huy tối đa năng lực bản thân, điều kiện làm việc tốt, đầy đủ phương tiện, thiết bị, có cơ hội tham gia đào tạo, thăng tiến, phát triển sự nghiệp.
+    Tham gia các hoạt động văn hóa ngoại khóa (Team building, hội thao, văn nghệ...).
+    Được vay ưu đãi (lãi suất hấp dẫn) dành cho cán bộ nhân viên ABBANK.
+    Hãy viết 1 - 2 câu ngắn bằng tiếng Anh phân tích tác động của AI vào cái job trên"

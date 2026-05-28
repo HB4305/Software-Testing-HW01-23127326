@@ -130,7 +130,7 @@
         - Love to exceed customer expectations
         - Self-motivated and self directed.
 
-- **Salary:** Up to 1500%
+- **Salary:** Up to 1500$
 
 - **AI impact analysis:** AI-powered testing tools (like self-healing test scripts and automated defect detection) are automating repetitive manual test cases, shrinking the core of this role. However, QAs who can leverage AI to design smarter test strategies, interpret results, and validate AI-generated features will remain essential — shifting the skill bar rather than eliminating the position.
 
@@ -188,3 +188,42 @@
 - **Salary:** 1,000 - 1,500 USD
 
 - **AI impact analysis:** The job description reflects AI's dual role: AI is simultaneously the product being tested (LLM evaluation, model behavior, fairness, training data quality) and the tool accelerating the work (automated testing, synthetic data generation, CI/CD pipelines). This means the QA engineer must evolve from a traditional tester into an AI-literate quality analyst who understands both how to test AI systems and how to leverage AI to test faster and smarter.
+
+### Job 5: Automation Tester (QA QC)
+
+- **Link:** [Automation Tester (QA QC)](https://itviec.com/it-jobs/qa-qc?job_selected=automation-tester-qa-qc-abbank-0039)
+
+- **Screenshot:**
+
+![Job5ScreenShot1](refs/job5-1.png)
+![Job5ScreenShot2](refs/job5-2.png)
+
+- **Job description:**
+
+    - Xây dựng dụng cụ cho automation test và viết script cho các api/rest và application test.
+    - Định nghĩa, phát triển, triển khai và duy trì script cho automation test
+    - Quản lý phiên bản (source control) cho automation test script
+    - Tham gia các cuộc họp về yêu cầu dự án để hiểu mục đích của dự án. Đóng góp thông tin về tính khả thi của dự án trên phương diện testing. Ước lượng thời gian testing cho dự án
+    - Đưa ra phương án testing, phát triển các chiến lược automation test và các framework cho automation test…
+    - Thiết kế test case và viết automation scripts.
+    - Phối hợp với các thành viên khác trong nhóm để hiểu về mục tiêu của dự án, thu thập các yêu cầu liên quan đến automation, thiết kế automated test và giải quyết các vấn đề liên quan đến testing.
+    - Phối hợp với nhóm Manual testing để đảm bảo phạm vi kiểm tra toàn diện.
+    - Tham gia thực hiện Manual test khi cần thiết.
+    - Luôn cập nhật các xu hướng và tiến bộ của ngành về các công cụ và kỹ thuật về automation testing.
+
+- **Required skill:**
+
+    - Trình độ Cử nhân trở lên chuyên ngành về Công nghệ thông tin, Khoa học máy tính hoặc các chuyên ngành liên quan.
+    - Có trên 02 năm kinh nghiệm trong automation testing cho api/rest hoặc mobile hoặc web
+    - Ưu tiên ứng viên có kinh nghiệm làm việc với Agile/Scrum
+    - Thông thạo trong việc viết automation test script với các ngôn ngữ như Java, C#.net, Python, Javascript, etc..
+    - Am hiểu về các giai đoạn trong việc kiểm thử phần mềm như: kiểm thử tính năng, kiểm thử tích hợp, kiểm thử tự động, kiểm thử white-box/black box, và kiểm thử load/performance;
+    - Kinh nghiệm sử dụng các bộ công cụ, framework như Katalon, Postman, Rest Assured, SoapUI, Selenium Webdriver, Mobile automation test, Jmeter, Jenkins, etc là một lợi thế;
+    - Kinh nghiệm quản lý phiên bản (version control) (như Git) và CI/CD
+    - Đào tạo, mentoring/ coaching các nhân viên trong team và dự án về các quy trình test driven development, automation testing liên quan đến SIT, UAT, Compliance Test, Performance test etc.
+    - Cẩn thận, tỉ mỉ, cần cù, nhanh nhẹn, có khả năng làm việc độc lập hoặc nhóm với cường độ cao.
+    - Tinh thần không ngại thay đổi tool/ framework/ ngôn ngữ
+
+- **Salary:** 1,000 - 2,000 USD
+
+- **AI impact analysis:** While AI dramatically accelerates script generation, API test authoring, and CI/CD maintenance within this role, it cannot replace the essential human expertise required for strategic test planning, cross-functional Agile collaboration, and mentoring team members. Consequently, the ideal candidate must shift their focus from routine coding to designing AI-driven testing frameworks and leading quality assurance governance.
