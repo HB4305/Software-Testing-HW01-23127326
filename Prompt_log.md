@@ -148,3 +148,9 @@ Hãy viết 1 - 2 câu ngắn bằng tiếng Anh phân tích tác động của 
     Được vay ưu đãi (lãi suất hấp dẫn) dành cho cán bộ nhân viên ABBANK.
     Hãy viết 1 - 2 câu ngắn bằng tiếng Anh phân tích tác động của AI vào cái job trên"
 
+## Prompt 4
+
+* **Timestamp:** May 30, 2026 03:09PM
+* **AI Tool:** Claude Sonet 4.6
+* **Prompt:** "Find 20 software defects published between 2022 and 2026. It is mandatory to include at least 5 defects related to AI/LLM (hallucination, prompt injection, bias). For each defect, provide a source link, description, severity, consequences, and solution."
+
