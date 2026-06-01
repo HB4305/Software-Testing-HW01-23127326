@@ -154,3 +154,9 @@ Hãy viết 1 - 2 câu ngắn bằng tiếng Anh phân tích tác động của 
 * **AI Tool:** Claude Sonet 4.6
 * **Prompt:** "Find 20 software defects published between 2022 and 2026. It is mandatory to include at least 5 defects related to AI/LLM (hallucination, prompt injection, bias). For each defect, provide a source link, description, severity, consequences, and solution."
 
+## Prompt 5
+
+* **Timestamp:** Jun 1, 2026 11:32AM
+* **AI Tool:** Gemini 3.5 Flash
+* **Prompt:** "You are a senior QA/QC specialist. I have a hair dryer like the one in the picture, model number SHD2306 from SUNHOUSE (Go to the websites and find out about it.). Use all your experience and knowledge to design 15 test cases (Ignore test cases related to measurement.). The output should be a table of test cases with the following columns: Objective / Input / Steps / Expected Result / Actual Result / Verdict"
+
