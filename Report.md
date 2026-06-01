@@ -686,3 +686,20 @@
 - **Consequences:** Compromise of enterprise network security appliances — firewalls and perimeter devices — by state-sponsored adversaries. Access to PAN-OS firewalls can enable network traffic interception, VPN credential theft, lateral movement into internal networks, and full perimeter security bypass.
 - **Solution:** Apply Palo Alto's patches immediately (May 2026 releases). Restrict User-ID Authentication Portal to trusted IP ranges via zone-based access controls. Disable the portal entirely if not required. Follow CISA BOD 22-01 guidance for all KEV-listed vulnerabilities. Implement network segmentation to isolate management interfaces.
 - **AI Bias/Hallucination in Explanation:** The AI hallucinates in the "Description" and "Solution & Mitigation" sections by stating that the vulnerability exists in the "User-ID authentication portal" and advising to disable or restrict this specific portal. In reality, the official CVE record JSON explicitly states under the "descriptions" and "title" fields that the flaw is an "Authentication bypass vulnerability in the GlobalProtect portal and gateway." The AI model hallucinated an entirely incorrect system component ("User-ID"), mischaracterizing a critical VPN-related exploit (`GlobalProtect`) as an internal identity-mapping feature (`User-ID`).
+
+
+## Requirement 3 – Test cases for ONE physical product
+
+### 1. Device Information
+
+- **Name:** Hair dryer
+- **Brand:**: SUNHOUSE
+- **Model:** SHD2306
+- **Year:** 2024
+- **Serial number:** 8935xxxx03206 *(Note: Since I couldn't find the physical serial number on the device, I used the barcode number instead).* 
+- **Device photo**: 
+
+![image](refs/device.png)
+
+
+### 2. 15 Test Cases
