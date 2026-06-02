@@ -825,3 +825,46 @@
 ![ScreenShot02](refs/PromptTC-2.png)
 ![ScreenShot03](refs/PromptTC-3.png)
 ![ScreenShot04](refs/PromptTC-4.png)
+
+#### 3 Edge Cases Test Cases:
+
+### EDGE CASE 1: Brownout / Voltage Sag Test
+
+* **Objective:** Test the safety behavior of the motor and protection circuit when the device is turned on under conditions where the grid voltage is much lower than the standard level (e.g., sagging to 160V - 170V).
+* **Steps:**
+  1. Connect the hair dryer to an AC power source with an adjustable transformer (Variac).
+  2. Lower the supply voltage to 170V.
+  3. Quickly flip the switch from `Off` directly to `Position 2` (High Heat).
+  4. Observe the hair dryer's reaction for 30 seconds.
+* **Expected Result:** The motor may spin weakly or the protection circuit automatically cuts off the power. The device **must not** experience a motor stall that causes the coils to overheat and short-circuit, and the heating element must not become excessively red-hot due to insufficient cooling airflow.
+* **Why the AI missed it:** 
+  * **Lack of physical environment awareness:** The AI always assumes the device operates in an ideal environment ("Standard 220V outlet" as in TC-01 to TC-04 in the screenshots).
+  * The AI only tests the logic states of the software/functions without the electrical engineering mindset to simulate power grid instability in the real world — an extremely core element in Hardware Testing.
+
+---
+
+### EDGE CASE 2: Air Inlet Blockage & Rapid Recovery
+
+* **Objective:** Test the sensitivity of the thermal cut-off when the airflow is suddenly interrupted, and the behavior of the device when safety conditions are restored.
+* **Steps:**
+  1. Turn on the hair dryer to operate normally in High Heat mode (`Position 2`).
+  2. Use a silicone pad to completely seal the air inlet grille at the back of the device.
+  3. Wait until the thermal cut-off automatically disconnects the power completely due to overheating.
+  4. As soon as the device cuts off, immediately remove the silicone pad from the air inlet grille and observe.
+* **Expected Result:** The thermal cut-off must disconnect the power within a few seconds to protect the plastic casing from melting. After unblocking, the device **must not automatically restart immediately** without cooling down to a safe level (or the system must force the user to switch to `Off` before turning it back on) to avoid the risk of burns or fire if the user accidentally leaves the device on a flammable surface.
+* **Why the AI missed it:**
+  * **Linear happy-path bias:** The AI only sets up test cases for continuous operation over a long period (like running for 10 minutes in TC-13) to see if the device heats up.
+  * The AI cannot deduce sudden, disruptive scenarios that break the thermal equilibrium (running -> loss of airflow -> trigger thermal cut-off -> restore airflow) because it lacks the ability to simulate fluid dynamics (air convection) combined with the active safety mechanisms of the device.
+
+---
+
+### EDGE CASE 3: Rapid Switch Toggle & Arcing Test
+
+* **Objective:** Test for electrical arcing at the physical switch contacts and the thermal/electrical shock resistance of the coils during extreme state changes.
+* **Steps:**
+  1. Plug the hair dryer into a standard 220V power source.
+  2. Continuously and rapidly flip the switch between two opposite modes: from `Cool` to `Position 2` (High Heat) and vice versa at a frequency of 3 - 4 times per second, maintaining this for 10 seconds.
+* **Expected Result:** No internal short circuits occur, no large electrical sparks are emitted outside the casing through the switch gap, and the heating element is not subjected to an electrical shock that causes an open circuit.
+* **Why the AI missed it:**
+  * **Mechanical vs Electrical testing confusion:** In the chat screenshot (TC-15), the AI generated a test case of flipping the switch 50 times continuously. However, the AI only viewed this action from the perspective of "mechanical durability" (whether the switch lever breaks or loosens).
+  * The AI completely missed the **electrical and thermal impacts**. When a high-intensity current is continuously turned on/off at a high frequency, the heating elements will suffer severe thermal shock due to the inability to charge/discharge energy in time, and the mechanical contacts will generate electrical arcing. This is an advanced hardware testing mindset that standard large language models (LLMs) cannot independently associate without being primed with specialized keywords.
