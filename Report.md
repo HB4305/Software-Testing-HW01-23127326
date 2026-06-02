@@ -7,6 +7,10 @@
   - Hồ Tuấn Thanh
   - Trương Phước Lộc
 
+## Github Repository
+
+- **Link:** [Github Repository](https://github.com/HB4305/Software-Testing-HW01-23127326)
+
 ## Student Information
 
 - **Name:** Lê Mai Hoài Bảo
@@ -699,7 +703,7 @@
 - **Serial number:** 8935xxxx03206 *(Note: Since I couldn't find the physical serial number on the device, I used the barcode number instead).* 
 - **Device photo**: 
 
-![image](Device.png)
+![image](Device.jpg)
 
 
 ### 2. 15 Test Cases
@@ -755,6 +759,9 @@
 | Pass Rate (%)     | 66.67%     |
 | Fail Rate (%)     | 33.33%     |
 | Report Date       | 2026-06-02 |
+
+
+
 
 ### 3. 5 Test Case Fail
 
