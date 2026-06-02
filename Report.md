@@ -756,16 +756,6 @@
 | Fail Rate (%)     | 33.33%     |
 | Report Date       | 2026-06-02 |
 
-#### Action Items (Failed)
-
-| Test Case ID   | Objective                                                       | Expected Result                                                                                                                                            | Actual Result                                                                                           | Verdict   | Action / Fix Status   |
-|:---------------|:----------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:----------|:----------------------|
-| TC-03          | Verify High Heat (Speed 2) functionality                        | The air speed increases noticeably compared to Position 1, and the air becomes hotter.                                                                     | The air speed increased compared to Position 1, but the air temperature remained similar to Position 1. | Fail      | Open                  |
-| TC-08          | Verify the integrity and function of the Hanging Loop           | The loop supports the full weight of the hair dryer (approx. 400g) without tearing, excessive stretching, or letting the unit fall.                        | The hanging loop stretching after 24 hours of suspension.                                               | Fail      | Open                  |
-| TC-09          | Verify structural integrity of the power cord anti-kink sleeve  | The rubber strain relief boot protects the cord, prevents sharp bends at the interface, and ensures no inner copper conductors are exposed.                | The cord folded sharply at the housing entry point with minimal support from the strain relief boot.    | Fail      | Open                  |
-| TC-10          | Verify Air Inlet Grille protection barrier                      | The dense honeycomb mesh safely prevents individual strands from being sucked inside the chamber or tangled into the internal fan blades.                  | Several hair strands passed through the honeycomb mesh and entered the air intake area.                 | Fail      | Open                  |
-| TC-13          | Verify casing material thermal insulation (ABS plastic quality) | The handle remains cool to the touch. The barrel surface gets warm but stays safe to handle without causing minor burns or emitting burning plastic odors. | The handle became noticeably hot after 10 minutes of operation, making it uncomfortable to hold.        | Fail      | Open                  |
-
 ### 3. 5 Test Case Fail
 
 #### 1. TC-03: Incorrectly Applied Heating Element Protection Method
