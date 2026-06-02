@@ -699,7 +699,7 @@
 - **Serial number:** 8935xxxx03206 *(Note: Since I couldn't find the physical serial number on the device, I used the barcode number instead).* 
 - **Device photo**: 
 
-![image](refs/device.png)
+![image](Device.png)
 
 
 ### 2. 15 Test Cases
@@ -766,6 +766,6 @@
 
 #### Screenshot issues in Github
 
-![ISSUES](refs/issues.png)
+![ISSUES](BugScreenshots.png)
 
 - **Link:** [Issues](https://github.com/HB4305/Software-Testing-HW01-23127326/issues)
