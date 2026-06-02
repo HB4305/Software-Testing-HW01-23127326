@@ -160,3 +160,8 @@ Hãy viết 1 - 2 câu ngắn bằng tiếng Anh phân tích tác động của 
 * **AI Tool:** Gemini 3.5 Flash
 * **Prompt:** "You are a senior QA/QC specialist. I have a hair dryer like the one in the picture, model number SHD2306 from SUNHOUSE (Go to the websites and find out about it.). Use all your experience and knowledge to design 15 test cases (Ignore test cases related to measurement.). The output should be a table of test cases with the following columns: Objective / Input / Steps / Expected Result / Actual Result / Verdict"
 
+## Prompt 5
+
+* **Timestamp:** Jun 2, 2026 07:56PM
+* **AI Tool:** Gemini 3.1 Pro(Hight)
+* **Prompt:** "Dựa vào [TestCases.xlsx](file;file:///Users/mac/KhoChua/%C4%90H/N%C4%83m3/HK3/Ki%E1%BB%83m%20th%E1%BB%AD%20ph%E1%BA%A7n%20m%E1%BB%81m/HW/Software-Testing-HW01-23127326/TestCases.xlsx) hãy tạo ra  Checklist / Test Summary Report (incremental) cho tôi. Đầu ra là 2 file excel"
