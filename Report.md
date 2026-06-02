@@ -768,7 +768,7 @@
 - TC-05: [Test Case 05](https://youtu.be/yeo9VvB6EKw?si=VIzBQTqybUOvkpv2)
 - TC-14: [Test Case 14](https://youtu.be/dT7A6kMxRH4?si=em4LM1ziaidlxH3O)
 
-### 4. Test Case Fail (5 Test cases)
+### 4. Test Case Fail (5 Test Cases)
 
 #### 1. TC-03: Incorrectly Applied Heating Element Protection Method
 **Objective:** Verify the structural integrity and thermal insulation of the spiral heating element protective structure inside the hair dryer.
@@ -815,3 +815,13 @@
 ![ISSUES](BugScreenshots.png)
 
 - **Link:** [Issues](https://github.com/HB4305/Software-Testing-HW01-23127326/issues)
+
+
+### 5. Edge Cases (3 Test Cases)
+
+#### Screenshots demonstrate the test cases that the AI ​​has generated.
+
+![ScreenShot01](refs/PromptTC-1.png)
+![ScreenShot02](refs/PromptTC-2.png)
+![ScreenShot03](refs/PromptTC-3.png)
+![ScreenShot04](refs/PromptTC-4.png)
