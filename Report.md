@@ -828,7 +828,7 @@
 
 #### 3 Edge Cases Test Cases:
 
-### EDGE CASE 1: Brownout / Voltage Sag Test
+##### EDGE CASE 1: Brownout / Voltage Sag Test
 
 * **Objective:** Test the safety behavior of the motor and protection circuit when the device is turned on under conditions where the grid voltage is much lower than the standard level (e.g., sagging to 160V - 170V).
 * **Steps:**
@@ -843,7 +843,7 @@
 
 ---
 
-### EDGE CASE 2: Air Inlet Blockage & Rapid Recovery
+##### EDGE CASE 2: Air Inlet Blockage & Rapid Recovery
 
 * **Objective:** Test the sensitivity of the thermal cut-off when the airflow is suddenly interrupted, and the behavior of the device when safety conditions are restored.
 * **Steps:**
@@ -858,7 +858,7 @@
 
 ---
 
-### EDGE CASE 3: Rapid Switch Toggle & Arcing Test
+##### EDGE CASE 3: Rapid Switch Toggle & Arcing Test
 
 * **Objective:** Test for electrical arcing at the physical switch contacts and the thermal/electrical shock resistance of the coils during extreme state changes.
 * **Steps:**
