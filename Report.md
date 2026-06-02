@@ -708,6 +708,8 @@
 
 ### 2. 15 Test Cases
 
+#### Test Cases
+
 | Test Case ID   | Objective                                                       | Input                                                                                     | Steps                                                                                                                                                        | Expected Result                                                                                                                                            | Actual Result                                                                                           | Verdict   |
 |:---------------|:----------------------------------------------------------------|:------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:----------|
 | TC-01          | Verify Cool Shot Mode activation and functionality              | Standard 220V outlet, switch at 'Cool' mode, 1 minute duration.                           | 1. Plug the device into a standard 220V outlet.<br>2. Slide the switch to the Cool mode position.<br>3. Keep it running for 10s and feel the exhaust air.    | The fan rotates smoothly. The air discharged from the nozzle remains at room temperature without any heat generation.                                      | As Expected                                                                                             | Pass      |
@@ -726,7 +728,7 @@
 | TC-14          | Verify Power Plug structural fit and contact stability          | 2-pin round plug connected to multiple household outlets, gentle wiggling force.          | 1. Connect the 2-pin round plug into multiple common household outlet types.<br>2. Wiggle the base of the plug gently while the dryer is running.            | The plug forms a snug, reliable connection. It does not loose connection or cause electrical sparking/arcing inside the outlet when handled.               | As Expected                                                                                             | Pass      |
 | TC-15          | Verify mechanical durability of the sliding switch              | Switch lever cycled rapidly (Off -> Cool -> 1 -> 2 -> Off) for 50 continuous repetitions. | 1. Rapidly cycle the switch lever from Off -> Cool -> 1 -> 2 -> Off for 50 repetitions continuously.                                                         | The switch maintains smooth detent feedback for each step. The lever does not stick, snap off, or lose internal electrical connectivity.                   | As Expected                                                                                             | Pass      |
 
-### Checklist
+#### Checklist
 
 | Test Case ID   | Objective                                                       | Expected Result                                                                                                                                            | Check Status   | Remarks                                                                                                                |
 |:---------------|:----------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------|:-----------------------------------------------------------------------------------------------------------------------|
@@ -746,9 +748,7 @@
 | TC-14          | Verify Power Plug structural fit and contact stability          | The plug forms a snug, reliable connection. It does not loose connection or cause electrical sparking/arcing inside the outlet when handled.               | Completed      | Working as expected. No issues observed.                                                                               |
 | TC-15          | Verify mechanical durability of the sliding switch              | The switch maintains smooth detent feedback for each step. The lever does not stick, snap off, or lose internal electrical connectivity.                   | Completed      | Working as expected. No issues observed.                                                                               |
 
-### Test Summary Report
-
-#### Summary
+#### Test Summary Report
 
 | Metric            | Value      |
 |:------------------|:-----------|
@@ -760,10 +760,15 @@
 | Fail Rate (%)     | 33.33%     |
 | Report Date       | 2026-06-02 |
 
+### 3. Test Videos
 
+- TC-01: [Test Case 01](https://youtu.be/J6QnVIUMFHM?si=9jvoDUJ9UxpcV-br) 
+- TC-02: [Test Case 02](https://youtu.be/fPCIOYrsYHQ?si=LTuASpaCB4aCx7-t)
+- TC-03: [Test Case 03](https://youtu.be/70ZfXi_V004?si=Fce9nf7j307MISvo)
+- TC-05: [Test Case 05](https://youtu.be/yeo9VvB6EKw?si=VIzBQTqybUOvkpv2)
+- TC-14: [Test Case 14](https://youtu.be/dT7A6kMxRH4?si=em4LM1ziaidlxH3O)
 
-
-### 3. 5 Test Case Fail
+### 4. Test Case Fail (5 Test cases)
 
 #### 1. TC-03: Incorrectly Applied Heating Element Protection Method
 **Objective:** Verify the structural integrity and thermal insulation of the spiral heating element protective structure inside the hair dryer.
