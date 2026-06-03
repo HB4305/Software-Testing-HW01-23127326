@@ -4,9 +4,10 @@
 ## Table of Contents
 
 - [General Information](#general-information)
-- [Github Repository](#github-repository)
 - [Student Information](#student-information)
-- [Requirement 1 – QA/QC Job Market 2026+](#requirement-1-qaqc-job-market-2026)
+- [Github Repository](#github-repository)
+- [Requirement 1 – QA/QC Job Market 2026+](#requirement-1--qaqc-job-market-2026)
+  - [QA/QC Mindmap and 3 Mistake of AI](#qaqc-mindmap-and-3-mistake-of-ai)
   - [Job 1: Manual/Automation Tester (QA QC)](#job-1-manualautomation-tester-qa-qc)
   - [Job 2: Automation QA Engineer (QA QC/Tester/Automation Test)](#job-2-automation-qa-engineer-qa-qctesterautomation-test)
   - [Job 3: QC Engineer (Tester/QA QC) for Web - Up to 1500$](#job-3-qc-engineer-testerqa-qc-for-web---up-to-1500)
@@ -18,41 +19,41 @@
   - [Job 9: Expert QA Engineer (Playwright) (Relocate to Singapore)](#job-9-expert-qa-engineer-playwright-relocate-to-singapore)
   - [Job 10: Automation Tester (QA Engineer)](#job-10-automation-tester-qa-engineer)
 - [Requirement 2 - 20 Software Defects 2022–2026](#requirement-2---20-software-defects-20222026)
-  - [Defect 1: ChatGPT Hallucination — Fabricated Legal Citations (Mata v. Avianca)](#defect-1-chatgpt-hallucination-fabricated-legal-citations-mata-v-avianca)
-  - [Defect 2: Air Canada Chatbot Hallucination — False Bereavement Fare Policy](#defect-2-air-canada-chatbot-hallucination-false-bereavement-fare-policy)
-  - [Defect 3: Microsoft Bing Chat Prompt Injection — 'Sydney' System Prompt Leak](#defect-3-microsoft-bing-chat-prompt-injection-sydney-system-prompt-leak)
-  - [Defect 4: ChatGPT SpAIware — Persistent Memory Prompt Injection (CVE-2024)](#defect-4-chatgpt-spaiware-persistent-memory-prompt-injection-cve-2024)
-  - [Defect 5: Workday AI Hiring Tool — Algorithmic Bias (Mobley v. Workday)](#defect-5-workday-ai-hiring-tool-algorithmic-bias-mobley-v-workday)
-  - [Defect 6: LLM Legal Hallucination Rate — The "Hallucination Tax" Systematic Defect](#defect-6-llm-legal-hallucination-rate-the-hallucination-tax-systematic-defect)
-  - [Defect 7: ChatGPT ZombieAgent / ShadowLeak — Persistent IPI Data Exfiltration Chain](#defect-7-chatgpt-zombieagent-shadowleak-persistent-ipi-data-exfiltration-chain)
-  - [Defect 8: CVE-2022-30190 'Follina' — Microsoft MSDT Remote Code Execution](#defect-8-cve-2022-30190-follina-microsoft-msdt-remote-code-execution)
-  - [Defect 9: CVE-2022-0778 — OpenSSL Infinite Loop DoS (BN_mod_sqrt)](#defect-9-cve-2022-0778-openssl-infinite-loop-dos-bn_mod_sqrt)
-  - [Defect 10: CVE-2022-3656 — Chrome Symlink Following File Steal](#defect-10-cve-2022-3656-chrome-symlink-following-file-steal)
-  - [Defect 11: CVE-2023-34362 — MOVEit Transfer SQL Injection (CL0P Ransomware)](#defect-11-cve-2023-34362-moveit-transfer-sql-injection-cl0p-ransomware)
-  - [Defect 12: CVE-2023-20198 — Cisco IOS XE Unauthenticated Privilege Escalation (CVSS 10.0)](#defect-12-cve-2023-20198-cisco-ios-xe-unauthenticated-privilege-escalation-cvss-100)
-  - [Defect 13: CVE-2024-3094 — XZ Utils Backdoor Supply-Chain Attack (CVSS 10.0)](#defect-13-cve-2024-3094-xz-utils-backdoor-supply-chain-attack-cvss-100)
-  - [Defect 14: Okta Source Code & Customer Data Breaches (Lapsus$ + GitHub, 2022–2023)](#defect-14-okta-source-code-customer-data-breaches-lapsus-github-20222023)
-  - [Defect 15: CrowdStrike Falcon Sensor — Faulty Content Update Global BSOD Outage](#defect-15-crowdstrike-falcon-sensor-faulty-content-update-global-bsod-outage)
-  - [Defect 16: CVE-2024-38226/38217 — Microsoft Mark-of-the-Web Security Feature Bypass](#defect-16-cve-2024-3822638217-microsoft-mark-of-the-web-security-feature-bypass)
-  - [Defect 17: Marks & Spencer Ransomware Attack — Scattered Spider Social Engineering](#defect-17-marks-spencer-ransomware-attack-scattered-spider-social-engineering)
-  - [Defect 18: CVE-2022-22965 'Spring4Shell' — Spring Framework RCE](#defect-18-cve-2022-22965-spring4shell-spring-framework-rce)
-  - [Defect 19: CVE-2025-x — Ghost CMS SQL Injection (ClickFix Attack Chain)](#defect-19-cve-2025-x-ghost-cms-sql-injection-clickfix-attack-chain)
-  - [Defect 20: Palo Alto PAN-OS Authentication Portal — Privilege Escalation (Active Exploitation)](#defect-20-palo-alto-pan-os-authentication-portal-privilege-escalation-active-exploitation)
-- [Requirement 3 – Test cases for ONE physical product](#requirement-3-test-cases-for-one-physical-product)
+  - [Defect 1: ChatGPT Hallucination — Fabricated Legal Citations (Mata v. Avianca)](#defect-1-chatgpt-hallucination--fabricated-legal-citations-mata-v-avianca)
+  - [Defect 2: Air Canada Chatbot Hallucination — False Bereavement Fare Policy](#defect-2-air-canada-chatbot-hallucination--false-bereavement-fare-policy)
+  - [Defect 3: Microsoft Bing Chat Prompt Injection — 'Sydney' System Prompt Leak](#defect-3-microsoft-bing-chat-prompt-injection--sydney-system-prompt-leak)
+  - [Defect 4: ChatGPT SpAIware — Persistent Memory Prompt Injection (CVE-2024)](#defect-4-chatgpt-spaiware--persistent-memory-prompt-injection-cve-2024)
+  - [Defect 5: Workday AI Hiring Tool — Algorithmic Bias (Mobley v. Workday)](#defect-5-workday-ai-hiring-tool--algorithmic-bias-mobley-v-workday)
+  - [Defect 6: LLM Legal Hallucination Rate — The "Hallucination Tax" Systematic Defect](#defect-6-llm-legal-hallucination-rate--the-hallucination-tax-systematic-defect)
+  - [Defect 7: ChatGPT ZombieAgent / ShadowLeak — Persistent IPI Data Exfiltration Chain](#defect-7-chatgpt-zombieagent--shadowleak--persistent-ipi-data-exfiltration-chain)
+  - [Defect 8: CVE-2022-30190 'Follina' — Microsoft MSDT Remote Code Execution](#defect-8-cve-2022-30190-follina--microsoft-msdt-remote-code-execution)
+  - [Defect 9: CVE-2022-0778 — OpenSSL Infinite Loop DoS (BN_mod_sqrt)](#defect-9-cve-2022-0778--openssl-infinite-loop-dos-bn_mod_sqrt)
+  - [Defect 10: CVE-2022-3656 — Chrome Symlink Following File Steal](#defect-10-cve-2022-3656--chrome-symlink-following-file-steal)
+  - [Defect 11: CVE-2023-34362 — MOVEit Transfer SQL Injection (CL0P Ransomware)](#defect-11-cve-2023-34362--moveit-transfer-sql-injection-cl0p-ransomware)
+  - [Defect 12: CVE-2023-20198 — Cisco IOS XE Unauthenticated Privilege Escalation (CVSS 10.0)](#defect-12-cve-2023-20198--cisco-ios-xe-unauthenticated-privilege-escalation-cvss-100)
+  - [Defect 13: CVE-2024-3094 — XZ Utils Backdoor Supply-Chain Attack (CVSS 10.0)](#defect-13-cve-2024-3094--xz-utils-backdoor-supply-chain-attack-cvss-100)
+  - [Defect 14: Okta Source Code & Customer Data Breaches (Lapsus$ + GitHub, 2022–2023)](#defect-14-okta-source-code--customer-data-breaches-lapsus--github-20222023)
+  - [Defect 15: CrowdStrike Falcon Sensor — Faulty Content Update Global BSOD Outage](#defect-15-crowdstrike-falcon-sensor--faulty-content-update-global-bsod-outage)
+  - [Defect 16: CVE-2024-38226/38217 — Microsoft Mark-of-the-Web Security Feature Bypass](#defect-16-cve-2024-3822638217--microsoft-mark-of-the-web-security-feature-bypass)
+  - [Defect 17: Marks & Spencer Ransomware Attack — Scattered Spider Social Engineering](#defect-17-marks--spencer-ransomware-attack--scattered-spider-social-engineering)
+  - [Defect 18: CVE-2022-22965 'Spring4Shell' — Spring Framework RCE](#defect-18-cve-2022-22965-spring4shell--spring-framework-rce)
+  - [Defect 19: CVE-2025-x — Ghost CMS SQL Injection (ClickFix Attack Chain)](#defect-19-cve-2025-x--ghost-cms-sql-injection-clickfix-attack-chain)
+  - [Defect 20: Palo Alto PAN-OS Authentication Portal — Privilege Escalation (Active Exploitation)](#defect-20-palo-alto-pan-os-authentication-portal--privilege-escalation-active-exploitation)
+- [Requirement 3 – Test cases for ONE physical product](#requirement-3--test-cases-for-one-physical-product)
   - [1. Device Information](#1-device-information)
   - [2. 15 Test Cases](#2-15-test-cases)
   - [3. Test Videos](#3-test-videos)
   - [4. Test Case Fail (5 Test Cases)](#4-test-case-fail-5-test-cases)
   - [5. Edge Cases (3 Test Cases)](#5-edge-cases-3-test-cases)
-- [[AI-02] AI Audit Report](#[ai-02]-ai-audit-report)
-  - [Prompt 4](#prompt-4)
-  - [Prompt 5](#prompt-5)
-  - [Prompt 6](#prompt-6)
-  - [Prompt 7](#prompt-7)
+- [[AI-02] AI Audit Report](#ai-02-ai-audit-report)
+  - [Artifact 1: 20 Software Defects List (Prompt 4)](#artifact-1-20-software-defects-list-prompt-4)
+  - [Artifact 2: Physical Product Test Cases (Prompt 5)](#artifact-2-physical-product-test-cases-prompt-5)
+  - [Artifact 3: Test Summary Excel Generation (Prompt 6)](#artifact-3-test-summary-excel-generation-prompt-6)
+  - [Artifact 4: QA/QC Role Mindmap (Prompt 7)](#artifact-4-qaqc-role-mindmap-prompt-7)
 - [AI Critique](#ai-critique)
-- [[AI-03]Mandatory Disclosure](#[ai-03]mandatory-disclosure)
-- [[AI-05] AI Privacy & Responsible Use Checklist](#[ai-05]ai-privacy-responsible-use-checklist)
-- [Self Assessment Grade](#self-assessment-grade)
+- [[AI-03] Mandatory Disclosure](#ai-03-mandatory-disclosure)
+- [[AI-05] AI Privacy & Responsible Use Checklist](#ai-05-ai-privacy--responsible-use-checklist)
+- [Self Assessment Grade Table](#self-assessment-grade-table)
 
 ## General Information
 
@@ -62,16 +63,18 @@
   - Hồ Tuấn Thanh
   - Trương Phước Lộc
 
-## Github Repository
-
-- **Link:** [Github Repository](https://github.com/HB4305/Software-Testing-HW01-23127326)
-
 ## Student Information
 
 - **Name:** Lê Mai Hoài Bảo
 - **Student ID:** 23127326
 
+## Github Repository
+
+- **Link:** [Github Repository](https://github.com/HB4305/Software-Testing-HW01-23127326)
+
 ## Requirement 1 – QA/QC Job Market 2026+
+
+### QA/QC Mindmap and 3 Mistake of AI
 
 ![MindMap](QaQcRoleMindMap.png)
 
@@ -947,7 +950,7 @@
 
 ## [AI-02] AI Audit Report
 
-### Prompt 4
+### Artifact 1: 20 Software Defects List (Prompt 4)
 
 **(1) Prompt + tool:** "Find 20 software defects published between 2022 and 2026. It is mandatory to include at least 5 defects related to AI/LLM (hallucination, prompt injection, bias). For each defect, provide a source link, description, severity, consequences, and solution." + Claude Sonet 4.6 (May 30, 2026 03:09PM)
 
@@ -961,7 +964,7 @@
 
 **(5) Student fix:** Manually verified each source article and corrected the technical descriptions, mitigations, and consequences to reflect the true facts, while explicitly documenting the AI's hallucinations in the "AI Bias/Hallucination in Explanation" sections.
 
-### Prompt 5
+### Artifact 2: Physical Product Test Cases (Prompt 5)
 
 **(1) Prompt + tool:** "You are a senior QA/QC specialist. I have a hair dryer like the one in the picture, model number SHD2306 from SUNHOUSE (Go to the websites and find out about it.). Use all your experience and knowledge to design 15 test cases (Ignore test cases related to measurement.). The output should be a table of test cases with the following columns: Objective / Input / Steps / Expected Result / Actual Result / Verdict" + Gemini 3.5 Flash (Jun 1, 2026 11:32AM)
 
@@ -978,7 +981,7 @@
 
 **(5) Student fix:** Added 3 critical edge cases (Brownout/Voltage Sag, Air Inlet Blockage & Rapid Recovery, Rapid Switch Toggle & Arcing Test) to properly test the device's electrical safety and physical thermal cut-off mechanisms.
 
-### Prompt 6
+### Artifact 3: Test Summary Excel Generation (Prompt 6)
 
 **(1) Prompt + tool:** "Dựa vào TestCases.xlsx hãy tạo ra Checklist / Test Summary Report (incremental) cho tôi. Đầu ra là 2 file excel" + Gemini 3.1 Pro(Hight) (Jun 2, 2026 07:56PM)
 
@@ -991,7 +994,7 @@
 
 **(5) Student fix:** Refined the Checklist and Test Summary Report by incorporating detailed failure remarks and extracting the defect root causes (e.g., heating element protection failure, casing insulation failure) into a dedicated "Test Case Fail" analysis section.
 
-### Prompt 7
+### Artifact 4: QA/QC Role Mindmap (Prompt 7)
 
 **(1) Prompt + tool:** "Generate a Mermaid.js mindmap code that visualizes the 'QA/QC Roles and Responsibilities' within the Software Testing Life Cycle, strictly adhering to ISTQB standards. Make sure to define the specific tasks for each role." + Gemini 3.5 Flash (Jun 3, 2026 06:56PM)
 
