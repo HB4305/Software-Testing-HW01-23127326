@@ -163,8 +163,8 @@ Hãy viết 1 - 2 câu ngắn bằng tiếng Anh phân tích tác động của 
 ## Prompt 6
 
 * **Timestamp:** Jun 2, 2026 07:56PM
-* **AI Tool:** Gemini 3.1 Pro(Hight)
-* **Prompt:** "Dựa vào [TestCases.xlsx](file;file:///Users/mac/KhoChua/%C4%90H/N%C4%83m3/HK3/Ki%E1%BB%83m%20th%E1%BB%AD%20ph%E1%BA%A7n%20m%E1%BB%81m/HW/Software-Testing-HW01-23127326/TestCases.xlsx) hãy tạo ra  Checklist / Test Summary Report (incremental) cho tôi. Đầu ra là 2 file excel"
+* **AI Tool:** Gemini 3.1 Pro(High)
+* **Prompt:** "Dựa vào [TestCases.xlsx](./TestCases.xlsx) hãy tạo ra  Checklist / Test Summary Report (incremental) cho tôi. Đầu ra là 2 file excel"
 
 ## Prompt 7
 
@@ -344,8 +344,8 @@ Hãy viết 1 - 2 câu ngắn bằng tiếng Anh phân tích tác động của 
   ## Prompt 6
 
   * **Timestamp:** Jun 2, 2026 07:56PM
-  * **AI Tool:** Gemini 3.1 Pro(Hight)
-  * **Prompt:** "Dựa vào [TestCases.xlsx](file;file:///Users/mac/KhoChua/%C4%90H/N%C4%83m3/HK3/Ki%E1%BB%83m%20th%E1%BB%AD%20ph%E1%BA%A7n%20m%E1%BB%81m/HW/Software-Testing-HW01-23127326/TestCases.xlsx) hãy tạo ra  Checklist / Test Summary Report (incremental) cho tôi. Đầu ra là 2 file excel"
+  * **AI Tool:** Gemini 3.1 Pro(High)
+  * **Prompt:** "Dựa vào [TestCases.xlsx](./TestCases.xlsx) hãy tạo ra  Checklist / Test Summary Report (incremental) cho tôi. Đầu ra là 2 file excel"
 
   ## Prompt 7
 
@@ -357,3 +357,8 @@ Hãy viết 1 - 2 câu ngắn bằng tiếng Anh phân tích tác động của 
   cái này đưa vào AI Audit report
 
 
+## Prompt 9
+
+* **Timestamp:** Jun 3, 2026 11:09PM
+* **AI Tool:** Gemini 3.1 Pro(High)
+* **Prompt**: "[Report.md#L1021-1022](./Report.md#L1021-1022) Hãy tạo ra phần AI Privacy Checklist giúp tôi"
