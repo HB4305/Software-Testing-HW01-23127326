@@ -6,7 +6,7 @@
 - [General Information](#general-information)
 - [Student Information](#student-information)
 - [Github Repository](#github-repository)
-- [Requirement 1 – QA/QC Job Market 2026+](#requirement-1--qaqc-job-market-2026)
+- [Requirement 1: QA/QC Job Market 2026+](#requirement-1-qaqc-job-market-2026)
   - [QA/QC Mindmap and 3 Mistake of AI](#qaqc-mindmap-and-3-mistake-of-ai)
   - [Job 1: Manual/Automation Tester (QA QC)](#job-1-manualautomation-tester-qa-qc)
   - [Job 2: Automation QA Engineer (QA QC/Tester/Automation Test)](#job-2-automation-qa-engineer-qa-qctesterautomation-test)
@@ -18,7 +18,7 @@
   - [Job 8: QA Team Lead](#job-8-qa-team-lead)
   - [Job 9: Expert QA Engineer (Playwright) (Relocate to Singapore)](#job-9-expert-qa-engineer-playwright-relocate-to-singapore)
   - [Job 10: Automation Tester (QA Engineer)](#job-10-automation-tester-qa-engineer)
-- [Requirement 2 - 20 Software Defects 2022–2026](#requirement-2---20-software-defects-20222026)
+- [Requirement 2: 20 Software Defects 2022-2026](#requirement-2-20-software-defects-2022-2026)
   - [Defect 1: ChatGPT Hallucination — Fabricated Legal Citations (Mata v. Avianca)](#defect-1-chatgpt-hallucination--fabricated-legal-citations-mata-v-avianca)
   - [Defect 2: Air Canada Chatbot Hallucination — False Bereavement Fare Policy](#defect-2-air-canada-chatbot-hallucination--false-bereavement-fare-policy)
   - [Defect 3: Microsoft Bing Chat Prompt Injection — 'Sydney' System Prompt Leak](#defect-3-microsoft-bing-chat-prompt-injection--sydney-system-prompt-leak)
@@ -39,7 +39,7 @@
   - [Defect 18: CVE-2022-22965 'Spring4Shell' — Spring Framework RCE](#defect-18-cve-2022-22965-spring4shell--spring-framework-rce)
   - [Defect 19: CVE-2025-x — Ghost CMS SQL Injection (ClickFix Attack Chain)](#defect-19-cve-2025-x--ghost-cms-sql-injection-clickfix-attack-chain)
   - [Defect 20: Palo Alto PAN-OS Authentication Portal — Privilege Escalation (Active Exploitation)](#defect-20-palo-alto-pan-os-authentication-portal--privilege-escalation-active-exploitation)
-- [Requirement 3 – Test cases for ONE physical product](#requirement-3--test-cases-for-one-physical-product)
+- [Requirement 3: Test cases for ONE physical product](#requirement-3-test-cases-for-one-physical-product)
   - [1. Device Information](#1-device-information)
   - [2. 15 Test Cases](#2-15-test-cases)
   - [3. Test Videos](#3-test-videos)
@@ -72,7 +72,7 @@
 
 - **Link:** [Github Repository](https://github.com/HB4305/Software-Testing-HW01-23127326)
 
-## Requirement 1 – QA/QC Job Market 2026+
+## Requirement 1: QA/QC Job Market 2026+
 
 ### QA/QC Mindmap and 3 Mistake of AI
 
@@ -588,7 +588,7 @@
 
 - **AI impact analysis:** With tools like Playwright increasingly embedding AI to boost efficiency, using AI in testing is now almost a given. The QA team's role is evolving to validate these automated outputs and ensure high-level system reliability.
 
-## Requirement 2 - 20 Software Defects 2022–2026
+## Requirement 2: 20 Software Defects 2022-2026
 
 ### Defect 1: ChatGPT Hallucination — Fabricated Legal Citations (Mata v. Avianca)
 
@@ -771,7 +771,7 @@
 - **AI Bias/Hallucination in Explanation:** The AI hallucinates in the "Description" and "Solution & Mitigation" sections by stating that the vulnerability exists in the "User-ID authentication portal" and advising to disable or restrict this specific portal. In reality, the official CVE record JSON explicitly states under the "descriptions" and "title" fields that the flaw is an "Authentication bypass vulnerability in the GlobalProtect portal and gateway." The AI model hallucinated an entirely incorrect system component ("User-ID"), mischaracterizing a critical VPN-related exploit (`GlobalProtect`) as an internal identity-mapping feature (`User-ID`).
 
 
-## Requirement 3 – Test cases for ONE physical product
+## Requirement 3: Test cases for ONE physical product
 
 ### 1. Device Information
 
