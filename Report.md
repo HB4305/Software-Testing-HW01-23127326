@@ -18,6 +18,27 @@
 
 ## Requirement 1 – QA/QC Job Market 2026+
 
+![MindMap](QaQcRoleMindMap.png)
+
+**Mistake 1: Redundant Separations of "Test Lead" and "Test Manager"**
+
+- **AI's Error:** The mindmap divides the management structure into two distinct, independent branches: Test Manager and Test Lead.
+- **ISTQB Fact:** According to the official ISTQB Syllabus, the framework explicitly defines only two core roles: the Test Management Role and the Testing Role.
+- **Correction:** All administrative and coordination activities assigned to the "Test Lead" (such as Coordinating Execution or Assigning Tasks) must be merged into a single Test Management Role branch to respect the ISTQB standard architecture.
+
+**Mistake 2: Overlapping and Wrong Ownership of "Tool Selection"**
+
+- **AI's Error:** There is a logical contradiction in tool ownership. The mindmap states Selects Tools under the Test Manager branch, but also claims Selects Automation Tools under the Test Automation Engineer branch.
+- **ISTQB Fact:** Tool selection is a strategic activity. The Test Manager is solely responsible for evaluating, selecting, and making the final decision on tools. The technical engineers or testers only support the evaluation process (piloting/researching), they do not hold the decision-making authority.
+- **Correction:** Delete Selects Automation Tools from the automation branch. The automation role should only focus on evaluating or implementing the tools chosen by management.
+
+**Mistake 3: Misplacement of "Test Automation Engineer" as a Core Role in STLC**
+
+- **AI's Error:** The mindmap elevates Test Automation Engineer to a primary role equivalent to the Tester and Test Manager, introducing specific implementation details like Page Object Model and CI/CD Pipelines.
+- **ISTQB Fact:** In the fundamental ISTQB Software Testing Life Cycle (STLC), automated testing is not viewed as a standalone organizational role. Rather, it is an approach or technique embedded inside the Tester role, specifically during the Test Implementation and Test Execution phases.
+- **Correction:** Remove Test Automation Engineer as a main branch. Instead, re-route technical activities like script development and maintenance as sub-nodes under Tester -> Implementation and Tester -> Execution.
+
+
 ### Job 1: Manual/Automation Tester (QA QC)
 
 - **Link:** [Manual/Automation Tester (QA/QC)](https://itviec.com/it-jobs/manual-automation-tester-qa-qc-grapecity-2052?lab_feature=preview_jd_page)
