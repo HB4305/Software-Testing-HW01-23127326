@@ -1,4 +1,57 @@
 # Homework 1 Report
+
+
+## Table of Contents
+
+- [General Information](#general-information)
+- [Github Repository](#github-repository)
+- [Student Information](#student-information)
+- [Requirement 1 – QA/QC Job Market 2026+](#requirement-1-qaqc-job-market-2026)
+  - [Job 1: Manual/Automation Tester (QA QC)](#job-1-manualautomation-tester-qa-qc)
+  - [Job 2: Automation QA Engineer (QA QC/Tester/Automation Test)](#job-2-automation-qa-engineer-qa-qctesterautomation-test)
+  - [Job 3: QC Engineer (Tester/QA QC) for Web - Up to 1500$](#job-3-qc-engineer-testerqa-qc-for-web---up-to-1500)
+  - [Job 4: Senior QC (Automation Tester, QA QC)](#job-4-senior-qc-automation-tester-qa-qc)
+  - [Job 5: Automation Tester (QA QC)](#job-5-automation-tester-qa-qc)
+  - [Job 6: Senior QA Engineer (Tester/Business Analyst)](#job-6-senior-qa-engineer-testerbusiness-analyst)
+  - [Job 7: Senior QC Engineer](#job-7-senior-qc-engineer)
+  - [Job 8: QA Team Lead](#job-8-qa-team-lead)
+  - [Job 9: Expert QA Engineer (Playwright) (Relocate to Singapore)](#job-9-expert-qa-engineer-playwright-relocate-to-singapore)
+  - [Job 10: Automation Tester (QA Engineer)](#job-10-automation-tester-qa-engineer)
+- [Requirement 2 - 20 Software Defects 2022–2026](#requirement-2---20-software-defects-20222026)
+  - [Defect 1: ChatGPT Hallucination — Fabricated Legal Citations (Mata v. Avianca)](#defect-1-chatgpt-hallucination-fabricated-legal-citations-mata-v-avianca)
+  - [Defect 2: Air Canada Chatbot Hallucination — False Bereavement Fare Policy](#defect-2-air-canada-chatbot-hallucination-false-bereavement-fare-policy)
+  - [Defect 3: Microsoft Bing Chat Prompt Injection — 'Sydney' System Prompt Leak](#defect-3-microsoft-bing-chat-prompt-injection-sydney-system-prompt-leak)
+  - [Defect 4: ChatGPT SpAIware — Persistent Memory Prompt Injection (CVE-2024)](#defect-4-chatgpt-spaiware-persistent-memory-prompt-injection-cve-2024)
+  - [Defect 5: Workday AI Hiring Tool — Algorithmic Bias (Mobley v. Workday)](#defect-5-workday-ai-hiring-tool-algorithmic-bias-mobley-v-workday)
+  - [Defect 6: LLM Legal Hallucination Rate — The "Hallucination Tax" Systematic Defect](#defect-6-llm-legal-hallucination-rate-the-hallucination-tax-systematic-defect)
+  - [Defect 7: ChatGPT ZombieAgent / ShadowLeak — Persistent IPI Data Exfiltration Chain](#defect-7-chatgpt-zombieagent-shadowleak-persistent-ipi-data-exfiltration-chain)
+  - [Defect 8: CVE-2022-30190 'Follina' — Microsoft MSDT Remote Code Execution](#defect-8-cve-2022-30190-follina-microsoft-msdt-remote-code-execution)
+  - [Defect 9: CVE-2022-0778 — OpenSSL Infinite Loop DoS (BN_mod_sqrt)](#defect-9-cve-2022-0778-openssl-infinite-loop-dos-bn_mod_sqrt)
+  - [Defect 10: CVE-2022-3656 — Chrome Symlink Following File Steal](#defect-10-cve-2022-3656-chrome-symlink-following-file-steal)
+  - [Defect 11: CVE-2023-34362 — MOVEit Transfer SQL Injection (CL0P Ransomware)](#defect-11-cve-2023-34362-moveit-transfer-sql-injection-cl0p-ransomware)
+  - [Defect 12: CVE-2023-20198 — Cisco IOS XE Unauthenticated Privilege Escalation (CVSS 10.0)](#defect-12-cve-2023-20198-cisco-ios-xe-unauthenticated-privilege-escalation-cvss-100)
+  - [Defect 13: CVE-2024-3094 — XZ Utils Backdoor Supply-Chain Attack (CVSS 10.0)](#defect-13-cve-2024-3094-xz-utils-backdoor-supply-chain-attack-cvss-100)
+  - [Defect 14: Okta Source Code & Customer Data Breaches (Lapsus$ + GitHub, 2022–2023)](#defect-14-okta-source-code-customer-data-breaches-lapsus-github-20222023)
+  - [Defect 15: CrowdStrike Falcon Sensor — Faulty Content Update Global BSOD Outage](#defect-15-crowdstrike-falcon-sensor-faulty-content-update-global-bsod-outage)
+  - [Defect 16: CVE-2024-38226/38217 — Microsoft Mark-of-the-Web Security Feature Bypass](#defect-16-cve-2024-3822638217-microsoft-mark-of-the-web-security-feature-bypass)
+  - [Defect 17: Marks & Spencer Ransomware Attack — Scattered Spider Social Engineering](#defect-17-marks-spencer-ransomware-attack-scattered-spider-social-engineering)
+  - [Defect 18: CVE-2022-22965 'Spring4Shell' — Spring Framework RCE](#defect-18-cve-2022-22965-spring4shell-spring-framework-rce)
+  - [Defect 19: CVE-2025-x — Ghost CMS SQL Injection (ClickFix Attack Chain)](#defect-19-cve-2025-x-ghost-cms-sql-injection-clickfix-attack-chain)
+  - [Defect 20: Palo Alto PAN-OS Authentication Portal — Privilege Escalation (Active Exploitation)](#defect-20-palo-alto-pan-os-authentication-portal-privilege-escalation-active-exploitation)
+- [Requirement 3 – Test cases for ONE physical product](#requirement-3-test-cases-for-one-physical-product)
+  - [1. Device Information](#1-device-information)
+  - [2. 15 Test Cases](#2-15-test-cases)
+  - [3. Test Videos](#3-test-videos)
+  - [4. Test Case Fail (5 Test Cases)](#4-test-case-fail-5-test-cases)
+  - [5. Edge Cases (3 Test Cases)](#5-edge-cases-3-test-cases)
+- [AI Audit Report](#ai-audit-report)
+  - [Prompt 4](#prompt-4)
+  - [Prompt 5](#prompt-5)
+  - [Prompt 6](#prompt-6)
+  - [Prompt 7](#prompt-7)
+- [AI Critique](#ai-critique)
+- [Mandatory Disclosure](#mandatory-disclosure)
+
 ## General Information
 
 - **Course:** Software Testing
@@ -948,3 +1001,19 @@
 **(4) Reasoning:** The AI hallucinates structural roles that contradict the official ISTQB Syllabus, such as redundantly separating "Test Lead" and "Test Manager", and elevating "Test Automation Engineer" to a core STLC role. Furthermore, it incorrectly assigned the strategic "Tool Selection" task to the Automation Engineer rather than the Test Manager, violating ISTQB's defined management responsibilities.
 
 **(5) Student fix:** I did nothing because the goal was simply an AI error.
+
+## AI Critique
+
+Based on the interactions with AI tools (Gemini and Claude) across various software testing prompts, a clear pattern of strengths and critical limitations has emerged. While the AI excels at generating boilerplate templates, mimicking professional formatting, and drafting basic test scripts, it consistently struggles with the rigorous, context-aware demands of professional Quality Assurance. A primary issue is its superficial adherence to ISTQB standards. The AI frequently hallucinates structural STLC roles—such as misassigning strategic tool-selection tasks to Automation Engineers rather than Test Managers—and fails to include mandatory elements like residual risk analysis in Test Summary Reports. Consequently, it reduces strategic QA to a generic checklist rather than a robust, risk-based engineering discipline.
+
+Furthermore, the AI demonstrates a severe lack of physical and hardware testing intuition. When tasked with designing test cases for a physical appliance, it defaulted to linear, software-centric "happy-path" logic, completely missing critical edge cases like electrical arcing, thermal shocks, or voltage sags. This highlights its inability to intuitively apply Error Guessing and Boundary Value Analysis outside of standard software environments. Additionally, the AI exhibits significant factual hallucination and a "pro-tech" bias. When analyzing historical software defects, it often fabricated technical details and retroactively injected modern concepts (like LLMs and RAG) into older defects, showing a reliance on predictive text patterns over objective historical accuracy.
+
+In conclusion, while AI is a highly efficient assistant for foundational QA tasks and structuring reports, it completely lacks the critical thinking, domain-specific intuition, and strict standards compliance required of a senior QA/QC Engineer. Human testers remain absolutely indispensable for independent verification, complex edge-case discovery, hardware awareness, and strategic risk management. These audit results emphasize that AI should be utilized strictly as a supporting tool rather than an independent authority in the Software Testing Life Cycle.
+
+## Mandatory Disclosure
+
+[Test cases / script / dataset / report] was initially generated by [AI tool name];
+I reviewed and modified [section X], added [edge cases Y, Z]; [section W] was
+written entirely by me. The detailed AI Audit Report is attached as Appendix A. I
+confirm I did not use AI to generate any artifact listed in the prohibited category
+below
