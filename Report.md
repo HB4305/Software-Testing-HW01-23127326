@@ -51,6 +51,7 @@
   - [Prompt 7](#prompt-7)
 - [AI Critique](#ai-critique)
 - [Mandatory Disclosure](#mandatory-disclosure)
+- [Self Assessment Grade](#self-assessment-grade)
 
 ## General Information
 
@@ -1017,3 +1018,15 @@ I reviewed and modified [section X], added [edge cases Y, Z]; [section W] was
 written entirely by me. The detailed AI Audit Report is attached as Appendix A. I
 confirm I did not use AI to generate any artifact listed in the prohibited category
 below
+
+## Self Assessment Grade Table
+
+| No. | Criteria | Grade | Self-Assessed Grade |
+| :---: | :--- | :---: | :---: |
+| 1 | Job Market 2026+ (10 jobs × 3 pts + AI Impact) | 40 | 40 |
+| 2 | Software Defects 2022–2026 (20 defects) | 20 | 20 |
+| 3 | Physical-product test design (15 TCs + 5 videos) | 25 | 25 |
+| AI-1 | [AI-02] AI Audit Report (5-section) attached | 8 | 8 |
+| AI-2 | AI Critique 200–300 words + [AI-03] Disclosure attached | 4 | 4 |
+| AI-3 | [AI-05] Checklist signed + anti-cheat artifacts | 3 | 3 |
+| **Total** | | **100** | **100** |
