@@ -889,3 +889,6 @@
 * **Why the AI missed it:**
   * **Mechanical vs Electrical testing confusion:** In the chat screenshot (TC-15), the AI generated a test case of flipping the switch 50 times continuously. However, the AI only viewed this action from the perspective of "mechanical durability" (whether the switch lever breaks or loosens).
   * The AI completely missed the **electrical and thermal impacts**. When a high-intensity current is continuously turned on/off at a high frequency, the heating elements will suffer severe thermal shock due to the inability to charge/discharge energy in time, and the mechanical contacts will generate electrical arcing. This is an advanced hardware testing mindset that standard large language models (LLMs) cannot independently associate without being primed with specialized keywords.
+
+## AI Audit Report
+
