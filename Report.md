@@ -959,6 +959,8 @@
 ![AI Output 1](refs/res4-1.png)
 ![AI Output 2](refs/res4-2.png)
 
+- SoftwareDefectCatalog : [SoftwareDefectCatalog](refs/software_defects_catalog.html)
+
 **(3) Verdict:** INVALID
 
 **(4) Reasoning:** The AI exhibited significant hallucination and "pro-tech bias" when explaining the defects, fabricating technical details, financial metrics, and false mitigation strategies (e.g., hallucinating RAG as a definitive solution for legal citations). According to ISTQB principles, testers must rely on objective facts and independent verification rather than assuming tool correctness, as the AI falsely projected advanced LLM technologies onto older rule-based defects.
