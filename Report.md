@@ -1007,6 +1007,29 @@
 
 **(5) Student fix:** Since the strategic objective of this test execution was explicitly bound to dynamic error-guessing and boundary risk discovery of the AI's internal architectural compliance, no manual code modification was applied to the Mermaid script. The definitive correction instead lies in the structural audit documented directly in the "QA/QC Mindmap and 3 Mistakes of AI" section of this report, ensuring that the flawed AI output is successfully isolated and barred from entering any production environment.
 
+### AI Accuracy Summary & Conclusion
+
+**1. AI Accuracy Ratio**
+Based on the 4 artifacts evaluated in this AI Audit Report, the accuracy ratio is as follows:
+- **VALID:** 0/4 (0%)
+- **INVALID:** 2/4 (50%)
+- **INCOMPLETE:** 2/4 (50%)
+
+**2. Conclusion: When should AI be used / not used for this work?**
+
+**When AI SHOULD be used:**
+- **Brainstorming and Ideation:** Generating initial ideas for test scenarios or drafting basic structures for documentation.
+- **Boilerplate Generation:** Creating repetitive templates or simple structures (e.g., standard test case tables) that will be thoroughly reviewed and expanded by a human.
+- **Formatting and Structuring:** Improving the clarity of test reports, summarizing long documents, or formatting data (provided the data itself is factual and verified).
+
+**When AI SHOULD NOT be used:**
+- **Final Decision Making:** Relying on AI for definitive verdicts, architectural decisions, or authoritative interpretations without rigorous human validation.
+- **Complex Edge Cases & Hardware-Software Interaction:** AI lacks physical environment awareness and the necessary engineering mindset, making it unreliable for hardware edge cases (e.g., electrical safety, thermal cut-offs).
+- **Strict Compliance & Standards (e.g., ISTQB):** AI frequently hallucinates structural roles, responsibilities, or technical definitions that contradict official standards.
+- **Factual Verification:** Using AI as a single source of truth for technical facts, historical software defects, or product specifications, as it is highly prone to hallucination and "pro-tech bias."
+
+In conclusion, AI is a powerful assistant for accelerating the initial phases of the Software Testing Life Cycle, but it fails as an autonomous QA expert. It requires strict, continuous human-in-the-loop verification, especially for boundary risk discovery, hardware-specific logic, and compliance-driven reporting.
+
 ##  AI Critique
 
 Based on the interactions with AI tools (Gemini and Claude) across various software testing prompts, a clear pattern of strengths and critical limitations has emerged. While the AI excels at generating boilerplate templates, mimicking professional formatting, and drafting basic test scripts, it consistently struggles with the rigorous, context-aware demands of professional Quality Assurance. A primary issue is its superficial adherence to ISTQB standards. The AI frequently hallucinates structural STLC roles—such as misassigning strategic tool-selection tasks to Automation Engineers rather than Test Managers—and fails to include mandatory elements like residual risk analysis in Test Summary Reports. Consequently, it reduces strategic QA to a generic checklist rather than a robust, risk-based engineering discipline.
