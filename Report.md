@@ -956,6 +956,7 @@
 **(1) Prompt + tool:** "Find 20 software defects published between 2022 and 2026. It is mandatory to include at least 5 defects related to AI/LLM (hallucination, prompt injection, bias). For each defect, provide a source link, description, severity, consequences, and solution." + Claude Sonet 4.6 (May 30, 2026 03:09PM)
 
 **(2) AI output:** 
+
 ![AI Output 1](refs/res4-1.png)
 ![AI Output 2](refs/res4-2.png)
 
@@ -989,6 +990,7 @@
 **(1) Prompt + tool:** "Dựa vào TestCases.xlsx hãy tạo ra Checklist / Test Summary Report (incremental) cho tôi. Đầu ra là 2 file excel" + Gemini 3.1 Pro(Hight) (Jun 2, 2026 07:56PM)
 
 **(2) AI output:** 
+
 ![AI Output](refs/res6.png)
 
 **(3) Verdict:** INCOMPLETE
@@ -1002,6 +1004,7 @@
 **(1) Prompt + tool:** "Generate a Mermaid.js mindmap code that visualizes the 'QA/QC Roles and Responsibilities' within the Software Testing Life Cycle, strictly adhering to ISTQB standards. Make sure to define the specific tasks for each role." + Gemini 3.5 Flash (Jun 3, 2026 06:56PM)
 
 **(2) AI output:** 
+
 ![AI Output](refs/res7.png)
 
 **(3) Verdict:** INVALID
@@ -1013,6 +1016,7 @@
 ### AI Accuracy Summary & Conclusion
 
 **1. AI Accuracy Ratio**
+
 Based on the 4 artifacts evaluated in this AI Audit Report, the accuracy ratio is as follows:
 - **VALID:** 0/4 (0%)
 - **INVALID:** 2/4 (50%)
@@ -1055,7 +1059,7 @@ The initial mindmap structure, historical defect references, and physical produc
 - [x] **Proper Attribution**: I have attributed any AI-generated structure or templates to the respective tool (e.g., ChatGPT, Gemini, Claude).
 
 **Signature:** Lê Mai Hoài Bảo
-**Date:** 2026-06-03
+**Date:** 2026-06-04
 
 ## Self Assessment Grade Table
 
